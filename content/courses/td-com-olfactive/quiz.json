@@ -1,0 +1,27 @@
+{
+  "questions": [
+    {"id": "q1", "type": "qcm", "q": "Que produit la fixation d'une molécule odorante sur un récepteur ?", "choices": ["Une réaction biochimique qui produit un signal électrique", "Une odeur immédiate dans le nez", "Une émotion directe sans passer par le cerveau", "Rien"], "answer": 0, "explain": "Le signal est ensuite transmis au cerveau, qui interprète l'odeur.", "section": "fonctionnement"},
+    {"id": "q2", "type": "vf", "q": "Nous possédons tous exactement les mêmes récepteurs olfactifs.", "answer": false, "explain": "C'est pourquoi une même odeur peut plaire à l'un et déplaire à l'autre.", "section": "perception"},
+    {"id": "q3", "type": "qcm", "q": "Au Japon, le chrysanthème est associé…", "choices": ["à la vigueur et à la longévité", "au cimetière", "à l'amour", "à la richesse"], "answer": 0, "explain": "En France, il est associé aux cérémonies funéraires.", "section": "perception"},
+    {"id": "q4", "type": "qcm", "q": "Quelle hypothèse est étudiée sur l'odeur et le choix du partenaire ?", "choices": ["Attirance pour un système immunitaire différent du sien", "Attirance pour la même odeur que soi", "Attirance pour le parfum le plus cher", "Aucune"], "answer": 0, "explain": "Mais on ne peut pas réduire le choix d'un partenaire à l'odeur.", "section": "relations"},
+    {"id": "q5", "type": "qcm", "q": "Pourquoi bander les yeux des participants dans les expériences ?", "choices": ["Pour isoler le sens de l'odorat", "Pour les effrayer", "Pour qu'ils se concentrent sur l'ouïe", "Pour des raisons d'hygiène"], "answer": 0, "explain": "Dans la vie quotidienne, on perçoit en même temps odeur, gestes, mimiques…", "section": "relations"},
+    {"id": "q6", "type": "vf", "q": "Une odeur suffit à déterminer la personnalité d'une personne.", "answer": false, "explain": "Il faut distinguer les résultats expérimentaux des interprétations simplifiées.", "section": "relations"},
+    {"id": "q7", "type": "qcm", "q": "Quelle réaction physiologique a été observée chez des participants exposés à certaines odeurs de transpiration ?", "choices": ["Des mains plus moites", "Une accélération de la croissance", "Une perte d'odorat", "Des éternuements"], "answer": 0, "explain": "Les odeurs corporelles peuvent être associées à des états émotionnels.", "section": "relations"},
+    {"id": "q8", "type": "qcm", "q": "Une odeur spécialement associée à une marque s'appelle…", "choices": ["une signature olfactive", "un logo olfactif", "un marronnier", "une charte graphique"], "answer": 0, "explain": "Elle crée une identité sensorielle.", "section": "marketing"},
+    {"id": "q9", "type": "qcm", "q": "Pourquoi certains hôtels diffusent-ils une odeur de café le matin ?", "choices": ["Pour inciter les clients à descendre et libérer leur chambre", "Pour masquer les mauvaises odeurs", "Pour vendre du café", "Par tradition"], "answer": 0, "explain": "L'odeur agit sur l'ambiance et sur les comportements.", "section": "marketing"},
+    {"id": "q10", "type": "qcm", "q": "Le premier objectif du marketing olfactif est…", "choices": ["d'agir sur l'ambiance et l'expérience du consommateur", "de provoquer directement un achat", "de remplacer la publicité", "de réduire les coûts"], "answer": 0, "explain": "L'impact sur les ventes est difficile à mesurer.", "section": "marketing"},
+    {"id": "q11", "type": "vf", "q": "Les chiffres sur l'augmentation des achats impulsifs grâce aux odeurs sont fiables et précis.", "answer": false, "explain": "Ils doivent être considérés avec prudence et replacés dans leur contexte.", "section": "marketing"},
+    {"id": "q12", "type": "qcm", "q": "Pourquoi faut-il éviter de généraliser les résultats d'une expérience olfactive ?", "choices": ["Dans la vie, on utilise plusieurs sens à la fois et la culture influence", "Parce que les odeurs n'existent pas", "Parce que les expériences sont interdites", "Parce que tout le monde sent pareil"], "answer": 0, "explain": "Émotions, souvenirs, culture et expériences influencent nos réactions.", "section": "limites"},
+    {"id": "q13", "type": "vf", "q": "Des amis peuvent avoir des profils olfactifs relativement similaires.", "answer": true, "explain": "L'odorat pourrait jouer un rôle dans les relations sociales.", "section": "relations"}
+  ],
+  "order": [
+    {"id": "o1", "q": "Remets dans l'ordre le fonctionnement de l'odorat", "items": ["Les molécules odorantes pénètrent dans le nez", "Elles atteignent des cellules à récepteurs", "Réaction biochimique", "Signal électrique", "Transmission au cerveau", "Interprétation de l'odeur"], "section": "fonctionnement"}
+  ],
+  "cards": [
+    {"id": "c1", "front": "Marketing olfactif", "back": "Utiliser des odeurs pour créer une ambiance et une émotion chez le client", "short": "Odeurs pour l'ambiance", "section": "marketing"},
+    {"id": "c2", "front": "Signature olfactive", "back": "Odeur associée à une marque ou un lieu (identité sensorielle)", "short": "Odeur d'une marque", "section": "marketing"},
+    {"id": "c3", "front": "Chrysanthème", "back": "France : funérailles ; Japon : vigueur et longévité", "short": "Sens culturel d'une odeur", "section": "perception"},
+    {"id": "c4", "front": "Récepteurs olfactifs", "back": "Différents selon les individus : on ne perçoit pas tous les odeurs pareil", "short": "Différents selon chacun", "section": "perception"},
+    {"id": "c5", "front": "Hypothèse immunitaire", "back": "Attirance possible pour un partenaire au système immunitaire différent", "short": "Système immunitaire différent", "section": "relations"}
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "questions": [
+    {"id": "q1", "type": "qcm", "q": "What is the Mayflower Compact (1620)?", "choices": ["A contract to organize the colony under God and the King", "A declaration of independence", "A peace treaty with Native Americans", "A tax law"], "answer": 0, "explain": "It is the first official text organizing a British colony.", "section": "mayflower"},
+    {"id": "q2", "type": "qcm", "q": "Which two features describe the tone of the Mayflower Compact?", "choices": ["Formal and religious", "Humorous and informal", "Poetic and sad", "Violent and angry"], "answer": 0, "explain": "Solemn vocabulary (solemnly, mutually) and God mentioned from the start.", "section": "mayflower"},
+    {"id": "q3", "type": "vf", "q": "The Pilgrims landed exactly where they had planned to settle.", "answer": false, "explain": "They arrived outside their intended area, so they wrote the Compact to show the colony was still under the King.", "section": "mayflower"},
+    {"id": "q4", "type": "qcm", "q": "Who wrote History of Plymouth Plantation?", "choices": ["William Bradford", "John Smith", "Thomas Jefferson", "King James"], "answer": 0, "explain": "Governor of Plymouth colony.", "section": "plymouth"},
+    {"id": "q5", "type": "qcm", "q": "The repetition of 'and' in Bradford's text is a style called…", "choices": ["polysyndetic (polysyndète)", "asyndetic (asyndète)", "metaphor", "oxymoron"], "answer": 0, "explain": "Many linking words → accumulation and insistence on the difficulties.", "section": "plymouth"},
+    {"id": "q6", "type": "qcm", "q": "Which word is repeated to stress the hostility of the place?", "choices": ["wild", "free", "happy", "civil"], "answer": 0, "explain": "Line 9: 'wild'.", "section": "plymouth"},
+    {"id": "q7", "type": "qcm", "q": "In Bradford's text, 'toil' means…", "choices": ["hard work", "help", "healthy", "only"], "answer": 0, "explain": "succor = help, sound = healthy, scarce = only/barely.", "section": "plymouth"},
+    {"id": "q8", "type": "qcm", "q": "'Succor' means…", "choices": ["help", "hard work", "to prowl", "healthy"], "answer": 0, "explain": "Line 6.", "section": "plymouth"},
+    {"id": "q9", "type": "qcm", "q": "What is 'the Frontier' in American history?", "choices": ["The line separating 'civilization' from the 'wilderness'", "The border between two countries", "The coast of the Atlantic", "The Mississippi River"], "answer": 0, "explain": "Different from a border between countries.", "section": "plymouth"},
+    {"id": "q10", "type": "qcm", "q": "Why was Thanksgiving first celebrated (1621)?", "choices": ["To thank God for the food they managed to grow", "To celebrate independence", "To honor the King", "To mark the arrival of the Mayflower"], "answer": 0, "explain": "The harvest feast after a terrible first winter.", "section": "plymouth"},
+    {"id": "q11", "type": "trou", "q": "The Declaration of Independence was adopted on July 4, ___.", "answer": "1776", "alts": [], "explain": "", "section": "declaration"},
+    {"id": "q12", "type": "qcm", "q": "What is the main purpose of the Declaration?", "choices": ["To justify the colonies' break with Great Britain", "To create the Constitution", "To declare war on France", "To abolish slavery"], "answer": 0, "explain": "It justifies independence.", "section": "declaration"},
+    {"id": "q13", "type": "trou", "q": "\"Life, Liberty and the pursuit of ___.\"", "answer": "Happiness", "alts": ["happiness"], "explain": "The unalienable rights.", "section": "principles"},
+    {"id": "q14", "type": "qcm", "q": "What are 'unalienable rights'?", "choices": ["Natural rights that do not come from the government", "Rights granted by the King", "Rights that can be sold", "Rights of foreigners"], "answer": 0, "explain": "They belong to people by nature.", "section": "principles"},
+    {"id": "q15", "type": "qcm", "q": "Which rhetorical device is used against George III?", "choices": ["Repetition of 'He has…' (accumulation)", "Rhetorical questions", "Irony", "Understatement"], "answer": 0, "explain": "An accumulation of accusations.", "section": "accusations"},
+    {"id": "q16", "type": "qcm", "q": "Which accusation is made against the King?", "choices": ["Imposing taxes without consent", "Abolishing slavery", "Refusing to go to war", "Giving the colonies too much freedom"], "answer": 0, "explain": "Also: dissolving institutions, obstructing justice, standing armies, restricting trade.", "section": "accusations"},
+    {"id": "q17", "type": "qcm", "q": "How do the colonists present independence?", "choices": ["As a last resort after repeated petitions", "As their first choice", "As a joke", "As temporary"], "answer": 0, "explain": "'Our repeated Petitions have been answered only by repeated injury.'", "section": "last-resort"},
+    {"id": "q18", "type": "vf", "q": "According to the Declaration, political power comes from the people.", "answer": true, "explain": "One of its fundamental principles.", "section": "principles"},
+    {"id": "q19", "type": "qcm", "q": "How much is the December written exam (devoir sur table) worth?", "choices": ["60% of the grade", "20%", "100%", "Bonus only"], "answer": 0, "explain": "Unknown text, comprehension questions, then 1-2 general questions.", "section": "evaluation"}
+  ],
+  "order": [
+    {"id": "o1", "q": "Put the Declaration's argument in order", "items": ["People have natural rights", "The British government violated these rights", "The people have the right to create an independent government"], "section": "declaration"},
+    {"id": "o2", "q": "Put the three texts in chronological order", "items": ["The Mayflower Compact", "History of Plymouth Plantation (events of 1620-1621)", "The Declaration of Independence"], "section": "mayflower"}
+  ],
+  "cards": [
+    {"id": "c1", "front": "succor", "back": "help", "short": "help", "section": "plymouth"},
+    {"id": "c2", "front": "scarce", "back": "only, barely", "short": "only / barely", "section": "plymouth"},
+    {"id": "c3", "front": "sound (adj.)", "back": "healthy", "short": "healthy", "section": "plymouth"},
+    {"id": "c4", "front": "toil", "back": "hard work", "short": "hard work", "section": "plymouth"},
+    {"id": "c5", "front": "to skulk", "back": "to prowl (rôder)", "short": "to prowl", "section": "plymouth"},
+    {"id": "c6", "front": "Polysyndète", "back": "Multiplication des mots de liaison (and… and…)", "short": "Beaucoup de « and »", "section": "plymouth"},
+    {"id": "c7", "front": "Unalienable rights", "back": "Life, Liberty and the pursuit of Happiness", "short": "Life, Liberty, Happiness", "section": "principles"},
+    {"id": "c8", "front": "Mayflower Compact", "back": "1620 : contrat des Pèlerins pour organiser la colonie sous Dieu et le roi", "short": "Contrat des Pèlerins, 1620", "section": "mayflower"},
+    {"id": "c9", "front": "The Frontier", "back": "Ligne entre « civilisation » et « sauvage » (≠ border)", "short": "Civilisation / sauvage", "section": "plymouth"}
+  ]
+}

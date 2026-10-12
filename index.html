@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Révisions</title>
+  <meta name="description" content="Mes cours, mes quiz et ma progression.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%E2%9A%BD%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:ital,wght@0,400;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script>
+    // Applique le thème avant l'affichage (évite le flash blanc)
+    try {
+      var s = JSON.parse(localStorage.getItem('revisions.v1') || '{}').settings || {};
+      if (s.theme && s.theme !== 'auto') document.documentElement.setAttribute('data-theme', s.theme);
+    } catch (e) {}
+  </script>
+</head>
+<body>
+  <a class="skip" href="#main">Aller au contenu</a>
+  <header class="topbar">
+    <a class="brand" href="#/" aria-label="Accueil">
+      <span class="brand-ball" aria-hidden="true">⚽</span>
+      <span class="brand-name">Révisions</span>
+    </a>
+    <nav class="mainnav" aria-label="Navigation principale">
+      <a href="#/" data-nav="home"><span aria-hidden="true">🏠</span><span>Accueil</span></a>
+      <a href="#/cours" data-nav="cours"><span aria-hidden="true">📚</span><span>Cours</span></a>
+      <a href="#/entrainement" data-nav="entrainement"><span aria-hidden="true">🎮</span><span>S'entraîner</span></a>
+      <a href="#/progres" data-nav="progres"><span aria-hidden="true">🏆</span><span>Progrès</span></a>
+      <a href="#/notes" data-nav="notes"><span aria-hidden="true">📝</span><span>Notes</span></a>
+    </nav>
+    <form class="searchbox" role="search" id="searchForm">
+      <input type="search" id="searchInput" placeholder="Rechercher…  (Ctrl K)" aria-label="Rechercher dans les cours" autocomplete="off">
+    </form>
+    <a class="iconbtn" href="#/reglages" aria-label="Réglages" title="Réglages">⚙️</a>
+  </header>
+
+  <main id="main" tabindex="-1"></main>
+
+  <div id="fx" aria-hidden="true"></div>
+  <div id="toast" role="status" aria-live="polite"></div>
+
+  <noscript><p style="padding:2rem">Ce site a besoin de JavaScript pour fonctionner.</p></noscript>
+
+  <script src="assets/vendor/marked.min.js"></script>
+  <script type="module" src="assets/js/app.js"></script>
+</body>
+</html>

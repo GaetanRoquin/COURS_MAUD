@@ -1,0 +1,4109 @@
+{
+ "quizSize": 20,
+ "questions": [
+  {
+   "id": "p-to-arise",
+   "type": "trou",
+   "q": "Prétérit de **to arise** (se lever) : ___",
+   "answer": "arose",
+   "alts": [],
+   "explain": "to arise – arose – arisen",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-arise",
+   "type": "trou",
+   "q": "Participe passé de **to arise** (se lever) : ___",
+   "answer": "arisen",
+   "alts": [],
+   "explain": "to arise – arose – arisen",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-awake",
+   "type": "trou",
+   "q": "Prétérit de **to awake** (s’éveiller) : ___",
+   "answer": "awoke",
+   "alts": [],
+   "explain": "to awake – awoke – awoken",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-awake",
+   "type": "trou",
+   "q": "Participe passé de **to awake** (s’éveiller) : ___",
+   "answer": "awoken",
+   "alts": [],
+   "explain": "to awake – awoke – awoken",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-be",
+   "type": "trou",
+   "q": "Prétérit de **to be** (être) : ___",
+   "answer": "was",
+   "alts": [
+    "were",
+    "was / were"
+   ],
+   "explain": "to be – was / were – been",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-be",
+   "type": "trou",
+   "q": "Participe passé de **to be** (être) : ___",
+   "answer": "been",
+   "alts": [],
+   "explain": "to be – was / were – been",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-bear",
+   "type": "trou",
+   "q": "Prétérit de **to bear** (porter) : ___",
+   "answer": "bore",
+   "alts": [],
+   "explain": "to bear – bore – borne",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-bear",
+   "type": "trou",
+   "q": "Participe passé de **to bear** (porter) : ___",
+   "answer": "borne",
+   "alts": [],
+   "explain": "to bear – bore – borne",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-beat",
+   "type": "trou",
+   "q": "Prétérit de **to beat** (battre) : ___",
+   "answer": "beat",
+   "alts": [],
+   "explain": "to beat – beat – beaten",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-beat",
+   "type": "trou",
+   "q": "Participe passé de **to beat** (battre) : ___",
+   "answer": "beaten",
+   "alts": [],
+   "explain": "to beat – beat – beaten",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-become",
+   "type": "trou",
+   "q": "Prétérit de **to become** (devenir) : ___",
+   "answer": "became",
+   "alts": [],
+   "explain": "to become – became – become",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-become",
+   "type": "trou",
+   "q": "Participe passé de **to become** (devenir) : ___",
+   "answer": "become",
+   "alts": [],
+   "explain": "to become – became – become",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-begin",
+   "type": "trou",
+   "q": "Prétérit de **to begin** (commencer) : ___",
+   "answer": "began",
+   "alts": [],
+   "explain": "to begin – began – begun",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-begin",
+   "type": "trou",
+   "q": "Participe passé de **to begin** (commencer) : ___",
+   "answer": "begun",
+   "alts": [],
+   "explain": "to begin – began – begun",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-bend",
+   "type": "trou",
+   "q": "Prétérit de **to bend** (courber) : ___",
+   "answer": "bent",
+   "alts": [],
+   "explain": "to bend – bent – bent",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-bend",
+   "type": "trou",
+   "q": "Participe passé de **to bend** (courber) : ___",
+   "answer": "bent",
+   "alts": [],
+   "explain": "to bend – bent – bent",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-bet",
+   "type": "trou",
+   "q": "Prétérit de **to bet** (parier) : ___",
+   "answer": "bet",
+   "alts": [],
+   "explain": "to bet – bet – bet",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-bet",
+   "type": "trou",
+   "q": "Participe passé de **to bet** (parier) : ___",
+   "answer": "bet",
+   "alts": [],
+   "explain": "to bet – bet – bet",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-bind",
+   "type": "trou",
+   "q": "Prétérit de **to bind** (lier) : ___",
+   "answer": "bound",
+   "alts": [],
+   "explain": "to bind – bound – bound",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-bind",
+   "type": "trou",
+   "q": "Participe passé de **to bind** (lier) : ___",
+   "answer": "bound",
+   "alts": [],
+   "explain": "to bind – bound – bound",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-bite",
+   "type": "trou",
+   "q": "Prétérit de **to bite** (mordre) : ___",
+   "answer": "bit",
+   "alts": [],
+   "explain": "to bite – bit – bitten",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-bite",
+   "type": "trou",
+   "q": "Participe passé de **to bite** (mordre) : ___",
+   "answer": "bitten",
+   "alts": [],
+   "explain": "to bite – bit – bitten",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-bleed",
+   "type": "trou",
+   "q": "Prétérit de **to bleed** (saigner) : ___",
+   "answer": "bled",
+   "alts": [],
+   "explain": "to bleed – bled – bled",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-bleed",
+   "type": "trou",
+   "q": "Participe passé de **to bleed** (saigner) : ___",
+   "answer": "bled",
+   "alts": [],
+   "explain": "to bleed – bled – bled",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-blow",
+   "type": "trou",
+   "q": "Prétérit de **to blow** (souffler) : ___",
+   "answer": "blew",
+   "alts": [],
+   "explain": "to blow – blew – blown",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-blow",
+   "type": "trou",
+   "q": "Participe passé de **to blow** (souffler) : ___",
+   "answer": "blown",
+   "alts": [],
+   "explain": "to blow – blew – blown",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-break",
+   "type": "trou",
+   "q": "Prétérit de **to break** (briser) : ___",
+   "answer": "broke",
+   "alts": [],
+   "explain": "to break – broke – broken",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-break",
+   "type": "trou",
+   "q": "Participe passé de **to break** (briser) : ___",
+   "answer": "broken",
+   "alts": [],
+   "explain": "to break – broke – broken",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-breed",
+   "type": "trou",
+   "q": "Prétérit de **to breed** (élever) : ___",
+   "answer": "bred",
+   "alts": [],
+   "explain": "to breed – bred – bred",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-breed",
+   "type": "trou",
+   "q": "Participe passé de **to breed** (élever) : ___",
+   "answer": "bred",
+   "alts": [],
+   "explain": "to breed – bred – bred",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-bring",
+   "type": "trou",
+   "q": "Prétérit de **to bring** (apporter) : ___",
+   "answer": "brought",
+   "alts": [],
+   "explain": "to bring – brought – brought",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-bring",
+   "type": "trou",
+   "q": "Participe passé de **to bring** (apporter) : ___",
+   "answer": "brought",
+   "alts": [],
+   "explain": "to bring – brought – brought",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-build",
+   "type": "trou",
+   "q": "Prétérit de **to build** (construire) : ___",
+   "answer": "built",
+   "alts": [],
+   "explain": "to build – built – built",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-build",
+   "type": "trou",
+   "q": "Participe passé de **to build** (construire) : ___",
+   "answer": "built",
+   "alts": [],
+   "explain": "to build – built – built",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-burn",
+   "type": "trou",
+   "q": "Prétérit de **to burn** (brûler) : ___",
+   "answer": "burnt",
+   "alts": [
+    "burned"
+   ],
+   "explain": "to burn – burnt – burnt",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-burn",
+   "type": "trou",
+   "q": "Participe passé de **to burn** (brûler) : ___",
+   "answer": "burnt",
+   "alts": [
+    "burned"
+   ],
+   "explain": "to burn – burnt – burnt",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-burst",
+   "type": "trou",
+   "q": "Prétérit de **to burst** (éclater) : ___",
+   "answer": "burst",
+   "alts": [],
+   "explain": "to burst – burst – burst",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-burst",
+   "type": "trou",
+   "q": "Participe passé de **to burst** (éclater) : ___",
+   "answer": "burst",
+   "alts": [],
+   "explain": "to burst – burst – burst",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-buy",
+   "type": "trou",
+   "q": "Prétérit de **to buy** (acheter) : ___",
+   "answer": "bought",
+   "alts": [],
+   "explain": "to buy – bought – bought",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-buy",
+   "type": "trou",
+   "q": "Participe passé de **to buy** (acheter) : ___",
+   "answer": "bought",
+   "alts": [],
+   "explain": "to buy – bought – bought",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-cast",
+   "type": "trou",
+   "q": "Prétérit de **to cast** (lancer) : ___",
+   "answer": "cast",
+   "alts": [],
+   "explain": "to cast – cast – cast",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-cast",
+   "type": "trou",
+   "q": "Participe passé de **to cast** (lancer) : ___",
+   "answer": "cast",
+   "alts": [],
+   "explain": "to cast – cast – cast",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-catch",
+   "type": "trou",
+   "q": "Prétérit de **to catch** (attraper) : ___",
+   "answer": "caught",
+   "alts": [],
+   "explain": "to catch – caught – caught",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-catch",
+   "type": "trou",
+   "q": "Participe passé de **to catch** (attraper) : ___",
+   "answer": "caught",
+   "alts": [],
+   "explain": "to catch – caught – caught",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-choose",
+   "type": "trou",
+   "q": "Prétérit de **to choose** (choisir) : ___",
+   "answer": "chose",
+   "alts": [],
+   "explain": "to choose – chose – chosen",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-choose",
+   "type": "trou",
+   "q": "Participe passé de **to choose** (choisir) : ___",
+   "answer": "chosen",
+   "alts": [],
+   "explain": "to choose – chose – chosen",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-cling",
+   "type": "trou",
+   "q": "Prétérit de **to cling** (s’accrocher) : ___",
+   "answer": "clung",
+   "alts": [],
+   "explain": "to cling – clung – clung",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-cling",
+   "type": "trou",
+   "q": "Participe passé de **to cling** (s’accrocher) : ___",
+   "answer": "clung",
+   "alts": [],
+   "explain": "to cling – clung – clung",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-clothe",
+   "type": "trou",
+   "q": "Prétérit de **to clothe** (habiller) : ___",
+   "answer": "clothed",
+   "alts": [
+    "clad",
+    "clothed / clad"
+   ],
+   "explain": "to clothe – clothed / clad – clothed / clad",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-clothe",
+   "type": "trou",
+   "q": "Participe passé de **to clothe** (habiller) : ___",
+   "answer": "clothed",
+   "alts": [
+    "clad",
+    "clothed / clad"
+   ],
+   "explain": "to clothe – clothed / clad – clothed / clad",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-come",
+   "type": "trou",
+   "q": "Prétérit de **to come** (venir) : ___",
+   "answer": "came",
+   "alts": [],
+   "explain": "to come – came – come",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-come",
+   "type": "trou",
+   "q": "Participe passé de **to come** (venir) : ___",
+   "answer": "come",
+   "alts": [],
+   "explain": "to come – came – come",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-cost",
+   "type": "trou",
+   "q": "Prétérit de **to cost** (coûter) : ___",
+   "answer": "cost",
+   "alts": [],
+   "explain": "to cost – cost – cost",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-cost",
+   "type": "trou",
+   "q": "Participe passé de **to cost** (coûter) : ___",
+   "answer": "cost",
+   "alts": [],
+   "explain": "to cost – cost – cost",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-creep",
+   "type": "trou",
+   "q": "Prétérit de **to creep** (ramper) : ___",
+   "answer": "crept",
+   "alts": [],
+   "explain": "to creep – crept – crept",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-creep",
+   "type": "trou",
+   "q": "Participe passé de **to creep** (ramper) : ___",
+   "answer": "crept",
+   "alts": [],
+   "explain": "to creep – crept – crept",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-cut",
+   "type": "trou",
+   "q": "Prétérit de **to cut** (couper) : ___",
+   "answer": "cut",
+   "alts": [],
+   "explain": "to cut – cut – cut",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-cut",
+   "type": "trou",
+   "q": "Participe passé de **to cut** (couper) : ___",
+   "answer": "cut",
+   "alts": [],
+   "explain": "to cut – cut – cut",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-deal",
+   "type": "trou",
+   "q": "Prétérit de **to deal** (distribuer) : ___",
+   "answer": "dealt",
+   "alts": [],
+   "explain": "to deal – dealt – dealt",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-deal",
+   "type": "trou",
+   "q": "Participe passé de **to deal** (distribuer) : ___",
+   "answer": "dealt",
+   "alts": [],
+   "explain": "to deal – dealt – dealt",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-dig",
+   "type": "trou",
+   "q": "Prétérit de **to dig** (creuser) : ___",
+   "answer": "dug",
+   "alts": [],
+   "explain": "to dig – dug – dug",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-dig",
+   "type": "trou",
+   "q": "Participe passé de **to dig** (creuser) : ___",
+   "answer": "dug",
+   "alts": [],
+   "explain": "to dig – dug – dug",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-do",
+   "type": "trou",
+   "q": "Prétérit de **to do** (faire) : ___",
+   "answer": "did",
+   "alts": [],
+   "explain": "to do – did – done",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-do",
+   "type": "trou",
+   "q": "Participe passé de **to do** (faire) : ___",
+   "answer": "done",
+   "alts": [],
+   "explain": "to do – did – done",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-draw",
+   "type": "trou",
+   "q": "Prétérit de **to draw** (tirer) : ___",
+   "answer": "drew",
+   "alts": [],
+   "explain": "to draw – drew – drawn",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-draw",
+   "type": "trou",
+   "q": "Participe passé de **to draw** (tirer) : ___",
+   "answer": "drawn",
+   "alts": [],
+   "explain": "to draw – drew – drawn",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-dream",
+   "type": "trou",
+   "q": "Prétérit de **to dream** (rêver) : ___",
+   "answer": "dreamt",
+   "alts": [
+    "dreamed"
+   ],
+   "explain": "to dream – dreamt – dreamt",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-dream",
+   "type": "trou",
+   "q": "Participe passé de **to dream** (rêver) : ___",
+   "answer": "dreamt",
+   "alts": [
+    "dreamed"
+   ],
+   "explain": "to dream – dreamt – dreamt",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-drink",
+   "type": "trou",
+   "q": "Prétérit de **to drink** (boire) : ___",
+   "answer": "drank",
+   "alts": [],
+   "explain": "to drink – drank – drunk",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-drink",
+   "type": "trou",
+   "q": "Participe passé de **to drink** (boire) : ___",
+   "answer": "drunk",
+   "alts": [],
+   "explain": "to drink – drank – drunk",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-drive",
+   "type": "trou",
+   "q": "Prétérit de **to drive** (conduire) : ___",
+   "answer": "drove",
+   "alts": [],
+   "explain": "to drive – drove – driven",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-drive",
+   "type": "trou",
+   "q": "Participe passé de **to drive** (conduire) : ___",
+   "answer": "driven",
+   "alts": [],
+   "explain": "to drive – drove – driven",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-eat",
+   "type": "trou",
+   "q": "Prétérit de **to eat** (manger) : ___",
+   "answer": "ate",
+   "alts": [],
+   "explain": "to eat – ate – eaten",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-eat",
+   "type": "trou",
+   "q": "Participe passé de **to eat** (manger) : ___",
+   "answer": "eaten",
+   "alts": [],
+   "explain": "to eat – ate – eaten",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-fall",
+   "type": "trou",
+   "q": "Prétérit de **to fall** (tomber) : ___",
+   "answer": "fell",
+   "alts": [],
+   "explain": "to fall – fell – fallen",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-fall",
+   "type": "trou",
+   "q": "Participe passé de **to fall** (tomber) : ___",
+   "answer": "fallen",
+   "alts": [],
+   "explain": "to fall – fell – fallen",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-feed",
+   "type": "trou",
+   "q": "Prétérit de **to feed** (nourrir) : ___",
+   "answer": "fed",
+   "alts": [],
+   "explain": "to feed – fed – fed",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-feed",
+   "type": "trou",
+   "q": "Participe passé de **to feed** (nourrir) : ___",
+   "answer": "fed",
+   "alts": [],
+   "explain": "to feed – fed – fed",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-feel",
+   "type": "trou",
+   "q": "Prétérit de **to feel** (ressentir) : ___",
+   "answer": "felt",
+   "alts": [],
+   "explain": "to feel – felt – felt",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-feel",
+   "type": "trou",
+   "q": "Participe passé de **to feel** (ressentir) : ___",
+   "answer": "felt",
+   "alts": [],
+   "explain": "to feel – felt – felt",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-fight",
+   "type": "trou",
+   "q": "Prétérit de **to fight** (combattre) : ___",
+   "answer": "fought",
+   "alts": [],
+   "explain": "to fight – fought – fought",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-fight",
+   "type": "trou",
+   "q": "Participe passé de **to fight** (combattre) : ___",
+   "answer": "fought",
+   "alts": [],
+   "explain": "to fight – fought – fought",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-find",
+   "type": "trou",
+   "q": "Prétérit de **to find** (trouver) : ___",
+   "answer": "found",
+   "alts": [],
+   "explain": "to find – found – found",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-find",
+   "type": "trou",
+   "q": "Participe passé de **to find** (trouver) : ___",
+   "answer": "found",
+   "alts": [],
+   "explain": "to find – found – found",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-flee",
+   "type": "trou",
+   "q": "Prétérit de **to flee** (s’enfuir) : ___",
+   "answer": "fled",
+   "alts": [],
+   "explain": "to flee – fled – fled",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-flee",
+   "type": "trou",
+   "q": "Participe passé de **to flee** (s’enfuir) : ___",
+   "answer": "fled",
+   "alts": [],
+   "explain": "to flee – fled – fled",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-fling",
+   "type": "trou",
+   "q": "Prétérit de **to fling** (lancer) : ___",
+   "answer": "flung",
+   "alts": [],
+   "explain": "to fling – flung – flung",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-fling",
+   "type": "trou",
+   "q": "Participe passé de **to fling** (lancer) : ___",
+   "answer": "flung",
+   "alts": [],
+   "explain": "to fling – flung – flung",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-fly",
+   "type": "trou",
+   "q": "Prétérit de **to fly** (voler) : ___",
+   "answer": "flew",
+   "alts": [],
+   "explain": "to fly – flew – flown",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-fly",
+   "type": "trou",
+   "q": "Participe passé de **to fly** (voler) : ___",
+   "answer": "flown",
+   "alts": [],
+   "explain": "to fly – flew – flown",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-forbid",
+   "type": "trou",
+   "q": "Prétérit de **to forbid** (interdire) : ___",
+   "answer": "forbade",
+   "alts": [],
+   "explain": "to forbid – forbade – forbidden",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-forbid",
+   "type": "trou",
+   "q": "Participe passé de **to forbid** (interdire) : ___",
+   "answer": "forbidden",
+   "alts": [],
+   "explain": "to forbid – forbade – forbidden",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-forget",
+   "type": "trou",
+   "q": "Prétérit de **to forget** (oublier) : ___",
+   "answer": "forgot",
+   "alts": [],
+   "explain": "to forget – forgot – forgotten",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-forget",
+   "type": "trou",
+   "q": "Participe passé de **to forget** (oublier) : ___",
+   "answer": "forgotten",
+   "alts": [],
+   "explain": "to forget – forgot – forgotten",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-forgive",
+   "type": "trou",
+   "q": "Prétérit de **to forgive** (pardonner) : ___",
+   "answer": "forgave",
+   "alts": [],
+   "explain": "to forgive – forgave – forgiven",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-forgive",
+   "type": "trou",
+   "q": "Participe passé de **to forgive** (pardonner) : ___",
+   "answer": "forgiven",
+   "alts": [],
+   "explain": "to forgive – forgave – forgiven",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-freeze",
+   "type": "trou",
+   "q": "Prétérit de **to freeze** (geler) : ___",
+   "answer": "froze",
+   "alts": [],
+   "explain": "to freeze – froze – frozen",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-freeze",
+   "type": "trou",
+   "q": "Participe passé de **to freeze** (geler) : ___",
+   "answer": "frozen",
+   "alts": [],
+   "explain": "to freeze – froze – frozen",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-get",
+   "type": "trou",
+   "q": "Prétérit de **to get** (obtenir) : ___",
+   "answer": "got",
+   "alts": [
+    "gotten"
+   ],
+   "explain": "to get – got – got",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-get",
+   "type": "trou",
+   "q": "Participe passé de **to get** (obtenir) : ___",
+   "answer": "got",
+   "alts": [
+    "gotten"
+   ],
+   "explain": "to get – got – got",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-gild",
+   "type": "trou",
+   "q": "Prétérit de **to gild** (dorer) : ___",
+   "answer": "gilded",
+   "alts": [
+    "gilt",
+    "gilded / gilt"
+   ],
+   "explain": "to gild – gilded / gilt – gilded / gilt",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-gild",
+   "type": "trou",
+   "q": "Participe passé de **to gild** (dorer) : ___",
+   "answer": "gilded",
+   "alts": [
+    "gilt",
+    "gilded / gilt"
+   ],
+   "explain": "to gild – gilded / gilt – gilded / gilt",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-give",
+   "type": "trou",
+   "q": "Prétérit de **to give** (donner) : ___",
+   "answer": "gave",
+   "alts": [],
+   "explain": "to give – gave – given",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-give",
+   "type": "trou",
+   "q": "Participe passé de **to give** (donner) : ___",
+   "answer": "given",
+   "alts": [],
+   "explain": "to give – gave – given",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-go",
+   "type": "trou",
+   "q": "Prétérit de **to go** (aller) : ___",
+   "answer": "went",
+   "alts": [],
+   "explain": "to go – went – gone",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-go",
+   "type": "trou",
+   "q": "Participe passé de **to go** (aller) : ___",
+   "answer": "gone",
+   "alts": [],
+   "explain": "to go – went – gone",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-grind",
+   "type": "trou",
+   "q": "Prétérit de **to grind** (moudre) : ___",
+   "answer": "ground",
+   "alts": [],
+   "explain": "to grind – ground – ground",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-grind",
+   "type": "trou",
+   "q": "Participe passé de **to grind** (moudre) : ___",
+   "answer": "ground",
+   "alts": [],
+   "explain": "to grind – ground – ground",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-grow",
+   "type": "trou",
+   "q": "Prétérit de **to grow** (croître) : ___",
+   "answer": "grew",
+   "alts": [],
+   "explain": "to grow – grew – grown",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-grow",
+   "type": "trou",
+   "q": "Participe passé de **to grow** (croître) : ___",
+   "answer": "grown",
+   "alts": [],
+   "explain": "to grow – grew – grown",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-hang",
+   "type": "trou",
+   "q": "Prétérit de **to hang** (suspendre) : ___",
+   "answer": "hung",
+   "alts": [],
+   "explain": "to hang – hung – hung",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-hang",
+   "type": "trou",
+   "q": "Participe passé de **to hang** (suspendre) : ___",
+   "answer": "hung",
+   "alts": [],
+   "explain": "to hang – hung – hung",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-have",
+   "type": "trou",
+   "q": "Prétérit de **to have** (avoir) : ___",
+   "answer": "had",
+   "alts": [],
+   "explain": "to have – had – had",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-have",
+   "type": "trou",
+   "q": "Participe passé de **to have** (avoir) : ___",
+   "answer": "had",
+   "alts": [],
+   "explain": "to have – had – had",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-hear",
+   "type": "trou",
+   "q": "Prétérit de **to hear** (entendre) : ___",
+   "answer": "heard",
+   "alts": [],
+   "explain": "to hear – heard – heard",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-hear",
+   "type": "trou",
+   "q": "Participe passé de **to hear** (entendre) : ___",
+   "answer": "heard",
+   "alts": [],
+   "explain": "to hear – heard – heard",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-hide",
+   "type": "trou",
+   "q": "Prétérit de **to hide** (cacher) : ___",
+   "answer": "hid",
+   "alts": [],
+   "explain": "to hide – hid – hidden",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-hide",
+   "type": "trou",
+   "q": "Participe passé de **to hide** (cacher) : ___",
+   "answer": "hidden",
+   "alts": [],
+   "explain": "to hide – hid – hidden",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-hit",
+   "type": "trou",
+   "q": "Prétérit de **to hit** (frapper) : ___",
+   "answer": "hit",
+   "alts": [],
+   "explain": "to hit – hit – hit",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-hit",
+   "type": "trou",
+   "q": "Participe passé de **to hit** (frapper) : ___",
+   "answer": "hit",
+   "alts": [],
+   "explain": "to hit – hit – hit",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-hold",
+   "type": "trou",
+   "q": "Prétérit de **to hold** (tenir) : ___",
+   "answer": "held",
+   "alts": [],
+   "explain": "to hold – held – held",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-hold",
+   "type": "trou",
+   "q": "Participe passé de **to hold** (tenir) : ___",
+   "answer": "held",
+   "alts": [],
+   "explain": "to hold – held – held",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-hurt",
+   "type": "trou",
+   "q": "Prétérit de **to hurt** (blesser) : ___",
+   "answer": "hurt",
+   "alts": [],
+   "explain": "to hurt – hurt – hurt",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-hurt",
+   "type": "trou",
+   "q": "Participe passé de **to hurt** (blesser) : ___",
+   "answer": "hurt",
+   "alts": [],
+   "explain": "to hurt – hurt – hurt",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-keep",
+   "type": "trou",
+   "q": "Prétérit de **to keep** (garder) : ___",
+   "answer": "kept",
+   "alts": [],
+   "explain": "to keep – kept – kept",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-keep",
+   "type": "trou",
+   "q": "Participe passé de **to keep** (garder) : ___",
+   "answer": "kept",
+   "alts": [],
+   "explain": "to keep – kept – kept",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-kneel",
+   "type": "trou",
+   "q": "Prétérit de **to kneel** (s’agenouiller) : ___",
+   "answer": "knelt",
+   "alts": [
+    "kneeled"
+   ],
+   "explain": "to kneel – knelt – knelt",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-kneel",
+   "type": "trou",
+   "q": "Participe passé de **to kneel** (s’agenouiller) : ___",
+   "answer": "knelt",
+   "alts": [
+    "kneeled"
+   ],
+   "explain": "to kneel – knelt – knelt",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-knit",
+   "type": "trou",
+   "q": "Prétérit de **to knit** (tricoter) : ___",
+   "answer": "knit",
+   "alts": [
+    "knitted"
+   ],
+   "explain": "to knit – knit – knit",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-knit",
+   "type": "trou",
+   "q": "Participe passé de **to knit** (tricoter) : ___",
+   "answer": "knit",
+   "alts": [
+    "knitted"
+   ],
+   "explain": "to knit – knit – knit",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-know",
+   "type": "trou",
+   "q": "Prétérit de **to know** (connaître) : ___",
+   "answer": "knew",
+   "alts": [],
+   "explain": "to know – knew – known",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-know",
+   "type": "trou",
+   "q": "Participe passé de **to know** (connaître) : ___",
+   "answer": "known",
+   "alts": [],
+   "explain": "to know – knew – known",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-lay",
+   "type": "trou",
+   "q": "Prétérit de **to lay** (étendre) : ___",
+   "answer": "laid",
+   "alts": [],
+   "explain": "to lay – laid – laid",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-lay",
+   "type": "trou",
+   "q": "Participe passé de **to lay** (étendre) : ___",
+   "answer": "laid",
+   "alts": [],
+   "explain": "to lay – laid – laid",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-lead",
+   "type": "trou",
+   "q": "Prétérit de **to lead** (conduire) : ___",
+   "answer": "led",
+   "alts": [],
+   "explain": "to lead – led – led",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-lead",
+   "type": "trou",
+   "q": "Participe passé de **to lead** (conduire) : ___",
+   "answer": "led",
+   "alts": [],
+   "explain": "to lead – led – led",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-lean",
+   "type": "trou",
+   "q": "Prétérit de **to lean** (se pencher) : ___",
+   "answer": "leant",
+   "alts": [
+    "leaned"
+   ],
+   "explain": "to lean – leant – leant",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-lean",
+   "type": "trou",
+   "q": "Participe passé de **to lean** (se pencher) : ___",
+   "answer": "leant",
+   "alts": [
+    "leaned"
+   ],
+   "explain": "to lean – leant – leant",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-leap",
+   "type": "trou",
+   "q": "Prétérit de **to leap** (bondir) : ___",
+   "answer": "leapt",
+   "alts": [
+    "leaped"
+   ],
+   "explain": "to leap – leapt – leapt",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-leap",
+   "type": "trou",
+   "q": "Participe passé de **to leap** (bondir) : ___",
+   "answer": "leapt",
+   "alts": [
+    "leaped"
+   ],
+   "explain": "to leap – leapt – leapt",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-learn",
+   "type": "trou",
+   "q": "Prétérit de **to learn** (apprendre) : ___",
+   "answer": "learnt",
+   "alts": [
+    "learned"
+   ],
+   "explain": "to learn – learnt – learnt",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-learn",
+   "type": "trou",
+   "q": "Participe passé de **to learn** (apprendre) : ___",
+   "answer": "learnt",
+   "alts": [
+    "learned"
+   ],
+   "explain": "to learn – learnt – learnt",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-leave",
+   "type": "trou",
+   "q": "Prétérit de **to leave** (quitter) : ___",
+   "answer": "left",
+   "alts": [],
+   "explain": "to leave – left – left",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-leave",
+   "type": "trou",
+   "q": "Participe passé de **to leave** (quitter) : ___",
+   "answer": "left",
+   "alts": [],
+   "explain": "to leave – left – left",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-lend",
+   "type": "trou",
+   "q": "Prétérit de **to lend** (prêter) : ___",
+   "answer": "lent",
+   "alts": [],
+   "explain": "to lend – lent – lent",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-lend",
+   "type": "trou",
+   "q": "Participe passé de **to lend** (prêter) : ___",
+   "answer": "lent",
+   "alts": [],
+   "explain": "to lend – lent – lent",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-let",
+   "type": "trou",
+   "q": "Prétérit de **to let** (louer, laisser) : ___",
+   "answer": "let",
+   "alts": [],
+   "explain": "to let – let – let",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-let",
+   "type": "trou",
+   "q": "Participe passé de **to let** (louer, laisser) : ___",
+   "answer": "let",
+   "alts": [],
+   "explain": "to let – let – let",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-lie",
+   "type": "trou",
+   "q": "Prétérit de **to lie** (être allongé) : ___",
+   "answer": "lay",
+   "alts": [],
+   "explain": "to lie – lay – lain",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-lie",
+   "type": "trou",
+   "q": "Participe passé de **to lie** (être allongé) : ___",
+   "answer": "lain",
+   "alts": [],
+   "explain": "to lie – lay – lain",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-light",
+   "type": "trou",
+   "q": "Prétérit de **to light** (éclairer) : ___",
+   "answer": "lit",
+   "alts": [],
+   "explain": "to light – lit – lit",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-light",
+   "type": "trou",
+   "q": "Participe passé de **to light** (éclairer) : ___",
+   "answer": "lit",
+   "alts": [],
+   "explain": "to light – lit – lit",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-lose",
+   "type": "trou",
+   "q": "Prétérit de **to lose** (perdre) : ___",
+   "answer": "lost",
+   "alts": [],
+   "explain": "to lose – lost – lost",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-lose",
+   "type": "trou",
+   "q": "Participe passé de **to lose** (perdre) : ___",
+   "answer": "lost",
+   "alts": [],
+   "explain": "to lose – lost – lost",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-make",
+   "type": "trou",
+   "q": "Prétérit de **to make** (faire) : ___",
+   "answer": "made",
+   "alts": [],
+   "explain": "to make – made – made",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-make",
+   "type": "trou",
+   "q": "Participe passé de **to make** (faire) : ___",
+   "answer": "made",
+   "alts": [],
+   "explain": "to make – made – made",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-mean",
+   "type": "trou",
+   "q": "Prétérit de **to mean** (signifier) : ___",
+   "answer": "meant",
+   "alts": [],
+   "explain": "to mean – meant – meant",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-mean",
+   "type": "trou",
+   "q": "Participe passé de **to mean** (signifier) : ___",
+   "answer": "meant",
+   "alts": [],
+   "explain": "to mean – meant – meant",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-meet",
+   "type": "trou",
+   "q": "Prétérit de **to meet** (rencontrer) : ___",
+   "answer": "met",
+   "alts": [],
+   "explain": "to meet – met – met",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-meet",
+   "type": "trou",
+   "q": "Participe passé de **to meet** (rencontrer) : ___",
+   "answer": "met",
+   "alts": [],
+   "explain": "to meet – met – met",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-mistake",
+   "type": "trou",
+   "q": "Prétérit de **to mistake** (se méprendre) : ___",
+   "answer": "mistook",
+   "alts": [],
+   "explain": "to mistake – mistook – mistaken",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-mistake",
+   "type": "trou",
+   "q": "Participe passé de **to mistake** (se méprendre) : ___",
+   "answer": "mistaken",
+   "alts": [],
+   "explain": "to mistake – mistook – mistaken",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-mow",
+   "type": "trou",
+   "q": "Prétérit de **to mow** (faucher) : ___",
+   "answer": "mowed",
+   "alts": [],
+   "explain": "to mow – mowed – mown",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-mow",
+   "type": "trou",
+   "q": "Participe passé de **to mow** (faucher) : ___",
+   "answer": "mown",
+   "alts": [],
+   "explain": "to mow – mowed – mown",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-overcome",
+   "type": "trou",
+   "q": "Prétérit de **to overcome** (surmonter) : ___",
+   "answer": "overcame",
+   "alts": [],
+   "explain": "to overcome – overcame – overcome",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-overcome",
+   "type": "trou",
+   "q": "Participe passé de **to overcome** (surmonter) : ___",
+   "answer": "overcome",
+   "alts": [],
+   "explain": "to overcome – overcame – overcome",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-pay",
+   "type": "trou",
+   "q": "Prétérit de **to pay** (payer) : ___",
+   "answer": "paid",
+   "alts": [],
+   "explain": "to pay – paid – paid",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-pay",
+   "type": "trou",
+   "q": "Participe passé de **to pay** (payer) : ___",
+   "answer": "paid",
+   "alts": [],
+   "explain": "to pay – paid – paid",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-put",
+   "type": "trou",
+   "q": "Prétérit de **to put** (poser, mettre) : ___",
+   "answer": "put",
+   "alts": [],
+   "explain": "to put – put – put",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-put",
+   "type": "trou",
+   "q": "Participe passé de **to put** (poser, mettre) : ___",
+   "answer": "put",
+   "alts": [],
+   "explain": "to put – put – put",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-read",
+   "type": "trou",
+   "q": "Prétérit de **to read** (lire) : ___",
+   "answer": "read",
+   "alts": [],
+   "explain": "to read – read – read",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-read",
+   "type": "trou",
+   "q": "Participe passé de **to read** (lire) : ___",
+   "answer": "read",
+   "alts": [],
+   "explain": "to read – read – read",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-rid",
+   "type": "trou",
+   "q": "Prétérit de **to rid** (débarrasser) : ___",
+   "answer": "rid",
+   "alts": [],
+   "explain": "to rid – rid – rid",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-rid",
+   "type": "trou",
+   "q": "Participe passé de **to rid** (débarrasser) : ___",
+   "answer": "rid",
+   "alts": [],
+   "explain": "to rid – rid – rid",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-ride",
+   "type": "trou",
+   "q": "Prétérit de **to ride** (aller à cheval) : ___",
+   "answer": "rode",
+   "alts": [],
+   "explain": "to ride – rode – ridden",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-ride",
+   "type": "trou",
+   "q": "Participe passé de **to ride** (aller à cheval) : ___",
+   "answer": "ridden",
+   "alts": [],
+   "explain": "to ride – rode – ridden",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-ring",
+   "type": "trou",
+   "q": "Prétérit de **to ring** (sonner) : ___",
+   "answer": "rang",
+   "alts": [],
+   "explain": "to ring – rang – rung",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-ring",
+   "type": "trou",
+   "q": "Participe passé de **to ring** (sonner) : ___",
+   "answer": "rung",
+   "alts": [],
+   "explain": "to ring – rang – rung",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-rise",
+   "type": "trou",
+   "q": "Prétérit de **to rise** (se lever) : ___",
+   "answer": "rose",
+   "alts": [],
+   "explain": "to rise – rose – risen",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-rise",
+   "type": "trou",
+   "q": "Participe passé de **to rise** (se lever) : ___",
+   "answer": "risen",
+   "alts": [],
+   "explain": "to rise – rose – risen",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-run",
+   "type": "trou",
+   "q": "Prétérit de **to run** (courir) : ___",
+   "answer": "ran",
+   "alts": [],
+   "explain": "to run – ran – run",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-run",
+   "type": "trou",
+   "q": "Participe passé de **to run** (courir) : ___",
+   "answer": "run",
+   "alts": [],
+   "explain": "to run – ran – run",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-saw",
+   "type": "trou",
+   "q": "Prétérit de **to saw** (scier) : ___",
+   "answer": "sawed",
+   "alts": [],
+   "explain": "to saw – sawed – sawn",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-saw",
+   "type": "trou",
+   "q": "Participe passé de **to saw** (scier) : ___",
+   "answer": "sawn",
+   "alts": [],
+   "explain": "to saw – sawed – sawn",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-say",
+   "type": "trou",
+   "q": "Prétérit de **to say** (dire) : ___",
+   "answer": "said",
+   "alts": [],
+   "explain": "to say – said – said",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-say",
+   "type": "trou",
+   "q": "Participe passé de **to say** (dire) : ___",
+   "answer": "said",
+   "alts": [],
+   "explain": "to say – said – said",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-see",
+   "type": "trou",
+   "q": "Prétérit de **to see** (voir) : ___",
+   "answer": "saw",
+   "alts": [],
+   "explain": "to see – saw – seen",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-see",
+   "type": "trou",
+   "q": "Participe passé de **to see** (voir) : ___",
+   "answer": "seen",
+   "alts": [],
+   "explain": "to see – saw – seen",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-seek",
+   "type": "trou",
+   "q": "Prétérit de **to seek** (chercher) : ___",
+   "answer": "sought",
+   "alts": [],
+   "explain": "to seek – sought – sought",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-seek",
+   "type": "trou",
+   "q": "Participe passé de **to seek** (chercher) : ___",
+   "answer": "sought",
+   "alts": [],
+   "explain": "to seek – sought – sought",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-sell",
+   "type": "trou",
+   "q": "Prétérit de **to sell** (vendre) : ___",
+   "answer": "sold",
+   "alts": [],
+   "explain": "to sell – sold – sold",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-sell",
+   "type": "trou",
+   "q": "Participe passé de **to sell** (vendre) : ___",
+   "answer": "sold",
+   "alts": [],
+   "explain": "to sell – sold – sold",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-send",
+   "type": "trou",
+   "q": "Prétérit de **to send** (envoyer) : ___",
+   "answer": "sent",
+   "alts": [],
+   "explain": "to send – sent – sent",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-send",
+   "type": "trou",
+   "q": "Participe passé de **to send** (envoyer) : ___",
+   "answer": "sent",
+   "alts": [],
+   "explain": "to send – sent – sent",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-set",
+   "type": "trou",
+   "q": "Prétérit de **to set** (poser) : ___",
+   "answer": "set",
+   "alts": [],
+   "explain": "to set – set – set",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-set",
+   "type": "trou",
+   "q": "Participe passé de **to set** (poser) : ___",
+   "answer": "set",
+   "alts": [],
+   "explain": "to set – set – set",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-sew",
+   "type": "trou",
+   "q": "Prétérit de **to sew** (coudre) : ___",
+   "answer": "sewed",
+   "alts": [],
+   "explain": "to sew – sewed – sewn",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-sew",
+   "type": "trou",
+   "q": "Participe passé de **to sew** (coudre) : ___",
+   "answer": "sewn",
+   "alts": [],
+   "explain": "to sew – sewed – sewn",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-shed",
+   "type": "trou",
+   "q": "Prétérit de **to shed** (verser ( des larmes )) : ___",
+   "answer": "shed",
+   "alts": [],
+   "explain": "to shed – shed – shed",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-shed",
+   "type": "trou",
+   "q": "Participe passé de **to shed** (verser ( des larmes )) : ___",
+   "answer": "shed",
+   "alts": [],
+   "explain": "to shed – shed – shed",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-shake",
+   "type": "trou",
+   "q": "Prétérit de **to shake** (secouer) : ___",
+   "answer": "shook",
+   "alts": [],
+   "explain": "to shake – shook – shaken",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-shake",
+   "type": "trou",
+   "q": "Participe passé de **to shake** (secouer) : ___",
+   "answer": "shaken",
+   "alts": [],
+   "explain": "to shake – shook – shaken",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-shine",
+   "type": "trou",
+   "q": "Prétérit de **to shine** (briller) : ___",
+   "answer": "shone",
+   "alts": [],
+   "explain": "to shine – shone – shone",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-shine",
+   "type": "trou",
+   "q": "Participe passé de **to shine** (briller) : ___",
+   "answer": "shone",
+   "alts": [],
+   "explain": "to shine – shone – shone",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-shoot",
+   "type": "trou",
+   "q": "Prétérit de **to shoot** (tirer ( fusil )) : ___",
+   "answer": "shot",
+   "alts": [],
+   "explain": "to shoot – shot – shot",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-shoot",
+   "type": "trou",
+   "q": "Participe passé de **to shoot** (tirer ( fusil )) : ___",
+   "answer": "shot",
+   "alts": [],
+   "explain": "to shoot – shot – shot",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-show",
+   "type": "trou",
+   "q": "Prétérit de **to show** (montrer) : ___",
+   "answer": "showed",
+   "alts": [],
+   "explain": "to show – showed – shown",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-show",
+   "type": "trou",
+   "q": "Participe passé de **to show** (montrer) : ___",
+   "answer": "shown",
+   "alts": [],
+   "explain": "to show – showed – shown",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-shrink",
+   "type": "trou",
+   "q": "Prétérit de **to shrink** (rétrécir) : ___",
+   "answer": "shrank",
+   "alts": [],
+   "explain": "to shrink – shrank – shrunk",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-shrink",
+   "type": "trou",
+   "q": "Participe passé de **to shrink** (rétrécir) : ___",
+   "answer": "shrunk",
+   "alts": [],
+   "explain": "to shrink – shrank – shrunk",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-shut",
+   "type": "trou",
+   "q": "Prétérit de **to shut** (fermer) : ___",
+   "answer": "shut",
+   "alts": [],
+   "explain": "to shut – shut – shut",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-shut",
+   "type": "trou",
+   "q": "Participe passé de **to shut** (fermer) : ___",
+   "answer": "shut",
+   "alts": [],
+   "explain": "to shut – shut – shut",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-sing",
+   "type": "trou",
+   "q": "Prétérit de **to sing** (chanter) : ___",
+   "answer": "sang",
+   "alts": [],
+   "explain": "to sing – sang – sung",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-sing",
+   "type": "trou",
+   "q": "Participe passé de **to sing** (chanter) : ___",
+   "answer": "sung",
+   "alts": [],
+   "explain": "to sing – sang – sung",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-sink",
+   "type": "trou",
+   "q": "Prétérit de **to sink** (s’enfoncer) : ___",
+   "answer": "sank",
+   "alts": [],
+   "explain": "to sink – sank – sunk",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-sink",
+   "type": "trou",
+   "q": "Participe passé de **to sink** (s’enfoncer) : ___",
+   "answer": "sunk",
+   "alts": [],
+   "explain": "to sink – sank – sunk",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-sit",
+   "type": "trou",
+   "q": "Prétérit de **to sit** (être assis) : ___",
+   "answer": "sat",
+   "alts": [],
+   "explain": "to sit – sat – sat",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-sit",
+   "type": "trou",
+   "q": "Participe passé de **to sit** (être assis) : ___",
+   "answer": "sat",
+   "alts": [],
+   "explain": "to sit – sat – sat",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-sleep",
+   "type": "trou",
+   "q": "Prétérit de **to sleep** (dormir) : ___",
+   "answer": "slept",
+   "alts": [],
+   "explain": "to sleep – slept – slept",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-sleep",
+   "type": "trou",
+   "q": "Participe passé de **to sleep** (dormir) : ___",
+   "answer": "slept",
+   "alts": [],
+   "explain": "to sleep – slept – slept",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-slide",
+   "type": "trou",
+   "q": "Prétérit de **to slide** (glisser) : ___",
+   "answer": "slid",
+   "alts": [],
+   "explain": "to slide – slid – slid",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-slide",
+   "type": "trou",
+   "q": "Participe passé de **to slide** (glisser) : ___",
+   "answer": "slid",
+   "alts": [],
+   "explain": "to slide – slid – slid",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-sling",
+   "type": "trou",
+   "q": "Prétérit de **to sling** (lancer (avec une fronde)) : ___",
+   "answer": "slung",
+   "alts": [],
+   "explain": "to sling – slung – slung",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-sling",
+   "type": "trou",
+   "q": "Participe passé de **to sling** (lancer (avec une fronde)) : ___",
+   "answer": "slung",
+   "alts": [],
+   "explain": "to sling – slung – slung",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-slit",
+   "type": "trou",
+   "q": "Prétérit de **to slit** (fendre) : ___",
+   "answer": "slit",
+   "alts": [],
+   "explain": "to slit – slit – slit",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-slit",
+   "type": "trou",
+   "q": "Participe passé de **to slit** (fendre) : ___",
+   "answer": "slit",
+   "alts": [],
+   "explain": "to slit – slit – slit",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-smell",
+   "type": "trou",
+   "q": "Prétérit de **to smell** (sentir ( odorat )) : ___",
+   "answer": "smelt",
+   "alts": [
+    "smelled"
+   ],
+   "explain": "to smell – smelt – smelt",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-smell",
+   "type": "trou",
+   "q": "Participe passé de **to smell** (sentir ( odorat )) : ___",
+   "answer": "smelt",
+   "alts": [
+    "smelled"
+   ],
+   "explain": "to smell – smelt – smelt",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-sow",
+   "type": "trou",
+   "q": "Prétérit de **to sow** (semer) : ___",
+   "answer": "sowed",
+   "alts": [],
+   "explain": "to sow – sowed – sown",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-sow",
+   "type": "trou",
+   "q": "Participe passé de **to sow** (semer) : ___",
+   "answer": "sown",
+   "alts": [],
+   "explain": "to sow – sowed – sown",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-speak",
+   "type": "trou",
+   "q": "Prétérit de **to speak** (parler) : ___",
+   "answer": "spoke",
+   "alts": [],
+   "explain": "to speak – spoke – spoken",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-speak",
+   "type": "trou",
+   "q": "Participe passé de **to speak** (parler) : ___",
+   "answer": "spoken",
+   "alts": [],
+   "explain": "to speak – spoke – spoken",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-speed",
+   "type": "trou",
+   "q": "Prétérit de **to speed** (se hâter) : ___",
+   "answer": "sped",
+   "alts": [
+    "speeded"
+   ],
+   "explain": "to speed – sped – sped",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-speed",
+   "type": "trou",
+   "q": "Participe passé de **to speed** (se hâter) : ___",
+   "answer": "sped",
+   "alts": [
+    "speeded"
+   ],
+   "explain": "to speed – sped – sped",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-spell",
+   "type": "trou",
+   "q": "Prétérit de **to spell** (épeler) : ___",
+   "answer": "spelt",
+   "alts": [
+    "spelled"
+   ],
+   "explain": "to spell – spelt – spelt",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-spell",
+   "type": "trou",
+   "q": "Participe passé de **to spell** (épeler) : ___",
+   "answer": "spelt",
+   "alts": [
+    "spelled"
+   ],
+   "explain": "to spell – spelt – spelt",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-spend",
+   "type": "trou",
+   "q": "Prétérit de **to spend** (dépenser) : ___",
+   "answer": "spent",
+   "alts": [],
+   "explain": "to spend – spent – spent",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-spend",
+   "type": "trou",
+   "q": "Participe passé de **to spend** (dépenser) : ___",
+   "answer": "spent",
+   "alts": [],
+   "explain": "to spend – spent – spent",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-spill",
+   "type": "trou",
+   "q": "Prétérit de **to spill** (répandre) : ___",
+   "answer": "spilt",
+   "alts": [
+    "spilled"
+   ],
+   "explain": "to spill – spilt – spilt",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-spill",
+   "type": "trou",
+   "q": "Participe passé de **to spill** (répandre) : ___",
+   "answer": "spilt",
+   "alts": [
+    "spilled"
+   ],
+   "explain": "to spill – spilt – spilt",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-spin",
+   "type": "trou",
+   "q": "Prétérit de **to spin** (tourner (sur soi-même)) : ___",
+   "answer": "spun",
+   "alts": [],
+   "explain": "to spin – spun – spun",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-spin",
+   "type": "trou",
+   "q": "Participe passé de **to spin** (tourner (sur soi-même)) : ___",
+   "answer": "spun",
+   "alts": [],
+   "explain": "to spin – spun – spun",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-spit",
+   "type": "trou",
+   "q": "Prétérit de **to spit** (cracher) : ___",
+   "answer": "spat",
+   "alts": [],
+   "explain": "to spit – spat – spat",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-spit",
+   "type": "trou",
+   "q": "Participe passé de **to spit** (cracher) : ___",
+   "answer": "spat",
+   "alts": [],
+   "explain": "to spit – spat – spat",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-split",
+   "type": "trou",
+   "q": "Prétérit de **to split** (( se ) fendre) : ___",
+   "answer": "split",
+   "alts": [],
+   "explain": "to split – split – split",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-split",
+   "type": "trou",
+   "q": "Participe passé de **to split** (( se ) fendre) : ___",
+   "answer": "split",
+   "alts": [],
+   "explain": "to split – split – split",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-spoil",
+   "type": "trou",
+   "q": "Prétérit de **to spoil** (gâter) : ___",
+   "answer": "spoilt",
+   "alts": [
+    "spoiled"
+   ],
+   "explain": "to spoil – spoilt – spoilt",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-spoil",
+   "type": "trou",
+   "q": "Participe passé de **to spoil** (gâter) : ___",
+   "answer": "spoilt",
+   "alts": [
+    "spoiled"
+   ],
+   "explain": "to spoil – spoilt – spoilt",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-spread",
+   "type": "trou",
+   "q": "Prétérit de **to spread** (étaler) : ___",
+   "answer": "spread",
+   "alts": [],
+   "explain": "to spread – spread – spread",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-spread",
+   "type": "trou",
+   "q": "Participe passé de **to spread** (étaler) : ___",
+   "answer": "spread",
+   "alts": [],
+   "explain": "to spread – spread – spread",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-spring",
+   "type": "trou",
+   "q": "Prétérit de **to spring** (jaillir, sauter) : ___",
+   "answer": "sprang",
+   "alts": [],
+   "explain": "to spring – sprang – sprung",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-spring",
+   "type": "trou",
+   "q": "Participe passé de **to spring** (jaillir, sauter) : ___",
+   "answer": "sprung",
+   "alts": [],
+   "explain": "to spring – sprang – sprung",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-stand",
+   "type": "trou",
+   "q": "Prétérit de **to stand** (être debout) : ___",
+   "answer": "stood",
+   "alts": [],
+   "explain": "to stand – stood – stood",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-stand",
+   "type": "trou",
+   "q": "Participe passé de **to stand** (être debout) : ___",
+   "answer": "stood",
+   "alts": [],
+   "explain": "to stand – stood – stood",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-steal",
+   "type": "trou",
+   "q": "Prétérit de **to steal** (dérober) : ___",
+   "answer": "stole",
+   "alts": [],
+   "explain": "to steal – stole – stolen",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-steal",
+   "type": "trou",
+   "q": "Participe passé de **to steal** (dérober) : ___",
+   "answer": "stolen",
+   "alts": [],
+   "explain": "to steal – stole – stolen",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-stick",
+   "type": "trou",
+   "q": "Prétérit de **to stick** (coller) : ___",
+   "answer": "stuck",
+   "alts": [],
+   "explain": "to stick – stuck – stuck",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-stick",
+   "type": "trou",
+   "q": "Participe passé de **to stick** (coller) : ___",
+   "answer": "stuck",
+   "alts": [],
+   "explain": "to stick – stuck – stuck",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-sting",
+   "type": "trou",
+   "q": "Prétérit de **to sting** (piquer) : ___",
+   "answer": "stung",
+   "alts": [],
+   "explain": "to sting – stung – stung",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-sting",
+   "type": "trou",
+   "q": "Participe passé de **to sting** (piquer) : ___",
+   "answer": "stung",
+   "alts": [],
+   "explain": "to sting – stung – stung",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-stink",
+   "type": "trou",
+   "q": "Prétérit de **to stink** (sentir mauvais) : ___",
+   "answer": "stank",
+   "alts": [],
+   "explain": "to stink – stank – stunk",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-stink",
+   "type": "trou",
+   "q": "Participe passé de **to stink** (sentir mauvais) : ___",
+   "answer": "stunk",
+   "alts": [],
+   "explain": "to stink – stank – stunk",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-stride",
+   "type": "trou",
+   "q": "Prétérit de **to stride** (aller à grands pas) : ___",
+   "answer": "strode",
+   "alts": [],
+   "explain": "to stride – strode – stridden",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-stride",
+   "type": "trou",
+   "q": "Participe passé de **to stride** (aller à grands pas) : ___",
+   "answer": "stridden",
+   "alts": [],
+   "explain": "to stride – strode – stridden",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-strike",
+   "type": "trou",
+   "q": "Prétérit de **to strike** (frapper) : ___",
+   "answer": "struck",
+   "alts": [],
+   "explain": "to strike – struck – struck",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-strike",
+   "type": "trou",
+   "q": "Participe passé de **to strike** (frapper) : ___",
+   "answer": "struck",
+   "alts": [],
+   "explain": "to strike – struck – struck",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-string",
+   "type": "trou",
+   "q": "Prétérit de **to string** (enfiler) : ___",
+   "answer": "strung",
+   "alts": [],
+   "explain": "to string – strung – strung",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-string",
+   "type": "trou",
+   "q": "Participe passé de **to string** (enfiler) : ___",
+   "answer": "strung",
+   "alts": [],
+   "explain": "to string – strung – strung",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-strive",
+   "type": "trou",
+   "q": "Prétérit de **to strive** (s’efforcer) : ___",
+   "answer": "strove",
+   "alts": [],
+   "explain": "to strive – strove – striven",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-strive",
+   "type": "trou",
+   "q": "Participe passé de **to strive** (s’efforcer) : ___",
+   "answer": "striven",
+   "alts": [],
+   "explain": "to strive – strove – striven",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-swear",
+   "type": "trou",
+   "q": "Prétérit de **to swear** (jurer) : ___",
+   "answer": "swore",
+   "alts": [],
+   "explain": "to swear – swore – sworn",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-swear",
+   "type": "trou",
+   "q": "Participe passé de **to swear** (jurer) : ___",
+   "answer": "sworn",
+   "alts": [],
+   "explain": "to swear – swore – sworn",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-sweep",
+   "type": "trou",
+   "q": "Prétérit de **to sweep** (balayer) : ___",
+   "answer": "swept",
+   "alts": [],
+   "explain": "to sweep – swept – swept",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-sweep",
+   "type": "trou",
+   "q": "Participe passé de **to sweep** (balayer) : ___",
+   "answer": "swept",
+   "alts": [],
+   "explain": "to sweep – swept – swept",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-swell",
+   "type": "trou",
+   "q": "Prétérit de **to swell** (gonfler) : ___",
+   "answer": "swelled",
+   "alts": [],
+   "explain": "to swell – swelled – swollen",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-swell",
+   "type": "trou",
+   "q": "Participe passé de **to swell** (gonfler) : ___",
+   "answer": "swollen",
+   "alts": [],
+   "explain": "to swell – swelled – swollen",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-swim",
+   "type": "trou",
+   "q": "Prétérit de **to swim** (nager) : ___",
+   "answer": "swam",
+   "alts": [],
+   "explain": "to swim – swam – swum",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-swim",
+   "type": "trou",
+   "q": "Participe passé de **to swim** (nager) : ___",
+   "answer": "swum",
+   "alts": [],
+   "explain": "to swim – swam – swum",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-swing",
+   "type": "trou",
+   "q": "Prétérit de **to swing** (( se ) balancer) : ___",
+   "answer": "swung",
+   "alts": [],
+   "explain": "to swing – swung – swung",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-swing",
+   "type": "trou",
+   "q": "Participe passé de **to swing** (( se ) balancer) : ___",
+   "answer": "swung",
+   "alts": [],
+   "explain": "to swing – swung – swung",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-take",
+   "type": "trou",
+   "q": "Prétérit de **to take** (prendre) : ___",
+   "answer": "took",
+   "alts": [],
+   "explain": "to take – took – taken",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-take",
+   "type": "trou",
+   "q": "Participe passé de **to take** (prendre) : ___",
+   "answer": "taken",
+   "alts": [],
+   "explain": "to take – took – taken",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-teach",
+   "type": "trou",
+   "q": "Prétérit de **to teach** (enseigner) : ___",
+   "answer": "taught",
+   "alts": [],
+   "explain": "to teach – taught – taught",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-teach",
+   "type": "trou",
+   "q": "Participe passé de **to teach** (enseigner) : ___",
+   "answer": "taught",
+   "alts": [],
+   "explain": "to teach – taught – taught",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-tear",
+   "type": "trou",
+   "q": "Prétérit de **to tear** (déchirer) : ___",
+   "answer": "tore",
+   "alts": [],
+   "explain": "to tear – tore – torn",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-tear",
+   "type": "trou",
+   "q": "Participe passé de **to tear** (déchirer) : ___",
+   "answer": "torn",
+   "alts": [],
+   "explain": "to tear – tore – torn",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-tell",
+   "type": "trou",
+   "q": "Prétérit de **to tell** (raconter) : ___",
+   "answer": "told",
+   "alts": [],
+   "explain": "to tell – told – told",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-tell",
+   "type": "trou",
+   "q": "Participe passé de **to tell** (raconter) : ___",
+   "answer": "told",
+   "alts": [],
+   "explain": "to tell – told – told",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-think",
+   "type": "trou",
+   "q": "Prétérit de **to think** (penser) : ___",
+   "answer": "thought",
+   "alts": [],
+   "explain": "to think – thought – thought",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-think",
+   "type": "trou",
+   "q": "Participe passé de **to think** (penser) : ___",
+   "answer": "thought",
+   "alts": [],
+   "explain": "to think – thought – thought",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-throw",
+   "type": "trou",
+   "q": "Prétérit de **to throw** (jeter) : ___",
+   "answer": "threw",
+   "alts": [],
+   "explain": "to throw – threw – thrown",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-throw",
+   "type": "trou",
+   "q": "Participe passé de **to throw** (jeter) : ___",
+   "answer": "thrown",
+   "alts": [],
+   "explain": "to throw – threw – thrown",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-thrust",
+   "type": "trou",
+   "q": "Prétérit de **to thrust** (pousser, fourrer) : ___",
+   "answer": "thrust",
+   "alts": [],
+   "explain": "to thrust – thrust – thrust",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-thrust",
+   "type": "trou",
+   "q": "Participe passé de **to thrust** (pousser, fourrer) : ___",
+   "answer": "thrust",
+   "alts": [],
+   "explain": "to thrust – thrust – thrust",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-understand",
+   "type": "trou",
+   "q": "Prétérit de **to understand** (comprendre) : ___",
+   "answer": "understood",
+   "alts": [],
+   "explain": "to understand – understood – understood",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-understand",
+   "type": "trou",
+   "q": "Participe passé de **to understand** (comprendre) : ___",
+   "answer": "understood",
+   "alts": [],
+   "explain": "to understand – understood – understood",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-upset",
+   "type": "trou",
+   "q": "Prétérit de **to upset** (renverser) : ___",
+   "answer": "upset",
+   "alts": [],
+   "explain": "to upset – upset – upset",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-upset",
+   "type": "trou",
+   "q": "Participe passé de **to upset** (renverser) : ___",
+   "answer": "upset",
+   "alts": [],
+   "explain": "to upset – upset – upset",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-wake",
+   "type": "trou",
+   "q": "Prétérit de **to wake** (s’éveiller) : ___",
+   "answer": "woke",
+   "alts": [],
+   "explain": "to wake – woke – woken",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-wake",
+   "type": "trou",
+   "q": "Participe passé de **to wake** (s’éveiller) : ___",
+   "answer": "woken",
+   "alts": [],
+   "explain": "to wake – woke – woken",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-wear",
+   "type": "trou",
+   "q": "Prétérit de **to wear** (porter ( vêtements )) : ___",
+   "answer": "wore",
+   "alts": [],
+   "explain": "to wear – wore – worn",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-wear",
+   "type": "trou",
+   "q": "Participe passé de **to wear** (porter ( vêtements )) : ___",
+   "answer": "worn",
+   "alts": [],
+   "explain": "to wear – wore – worn",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-weave",
+   "type": "trou",
+   "q": "Prétérit de **to weave** (tisser) : ___",
+   "answer": "wove",
+   "alts": [],
+   "explain": "to weave – wove – woven",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-weave",
+   "type": "trou",
+   "q": "Participe passé de **to weave** (tisser) : ___",
+   "answer": "woven",
+   "alts": [],
+   "explain": "to weave – wove – woven",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-weep",
+   "type": "trou",
+   "q": "Prétérit de **to weep** (pleurer) : ___",
+   "answer": "wept",
+   "alts": [],
+   "explain": "to weep – wept – wept",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-weep",
+   "type": "trou",
+   "q": "Participe passé de **to weep** (pleurer) : ___",
+   "answer": "wept",
+   "alts": [],
+   "explain": "to weep – wept – wept",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-win",
+   "type": "trou",
+   "q": "Prétérit de **to win** (gagner) : ___",
+   "answer": "won",
+   "alts": [],
+   "explain": "to win – won – won",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-win",
+   "type": "trou",
+   "q": "Participe passé de **to win** (gagner) : ___",
+   "answer": "won",
+   "alts": [],
+   "explain": "to win – won – won",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-wind",
+   "type": "trou",
+   "q": "Prétérit de **to wind** (remonter) : ___",
+   "answer": "wound",
+   "alts": [],
+   "explain": "to wind – wound – wound",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-wind",
+   "type": "trou",
+   "q": "Participe passé de **to wind** (remonter) : ___",
+   "answer": "wound",
+   "alts": [],
+   "explain": "to wind – wound – wound",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-withdraw",
+   "type": "trou",
+   "q": "Prétérit de **to withdraw** (retirer) : ___",
+   "answer": "withdrew",
+   "alts": [],
+   "explain": "to withdraw – withdrew – withdrawn",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-withdraw",
+   "type": "trou",
+   "q": "Participe passé de **to withdraw** (retirer) : ___",
+   "answer": "withdrawn",
+   "alts": [],
+   "explain": "to withdraw – withdrew – withdrawn",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-withstand",
+   "type": "trou",
+   "q": "Prétérit de **to withstand** (résister) : ___",
+   "answer": "withstood",
+   "alts": [],
+   "explain": "to withstand – withstood – withstood",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-withstand",
+   "type": "trou",
+   "q": "Participe passé de **to withstand** (résister) : ___",
+   "answer": "withstood",
+   "alts": [],
+   "explain": "to withstand – withstood – withstood",
+   "section": "liste"
+  },
+  {
+   "id": "p-to-write",
+   "type": "trou",
+   "q": "Prétérit de **to write** (écrire) : ___",
+   "answer": "wrote",
+   "alts": [],
+   "explain": "to write – wrote – written",
+   "section": "liste"
+  },
+  {
+   "id": "pp-to-write",
+   "type": "trou",
+   "q": "Participe passé de **to write** (écrire) : ___",
+   "answer": "written",
+   "alts": [],
+   "explain": "to write – wrote – written",
+   "section": "liste"
+  },
+  {
+   "id": "trap0",
+   "type": "qcm",
+   "q": "Prétérit de to lie (être allongé) ?",
+   "choices": [
+    "lay",
+    "lied",
+    "laid",
+    "lain"
+   ],
+   "answer": 0,
+   "explain": "to lie – lay – lain ; ne pas confondre avec to lay – laid – laid (poser).",
+   "section": "liste"
+  },
+  {
+   "id": "trap1",
+   "type": "qcm",
+   "q": "Prétérit de to lay (poser, étendre) ?",
+   "choices": [
+    "laid",
+    "lay",
+    "layed",
+    "lain"
+   ],
+   "answer": 0,
+   "explain": "to lay – laid – laid.",
+   "section": "liste"
+  },
+  {
+   "id": "trap2",
+   "type": "qcm",
+   "q": "Prétérit de to rise (se lever) ?",
+   "choices": [
+    "rose",
+    "raised",
+    "rised",
+    "risen"
+   ],
+   "answer": 0,
+   "explain": "to rise – rose – risen (intransitif) ; to raise est régulier.",
+   "section": "liste"
+  },
+  {
+   "id": "trap3",
+   "type": "qcm",
+   "q": "Participe passé de to fly ?",
+   "choices": [
+    "flown",
+    "flew",
+    "flied",
+    "flyed"
+   ],
+   "answer": 0,
+   "explain": "to fly – flew – flown.",
+   "section": "liste"
+  },
+  {
+   "id": "trap4",
+   "type": "qcm",
+   "q": "Prétérit de to seek (chercher) ?",
+   "choices": [
+    "sought",
+    "seeked",
+    "saught",
+    "sook"
+   ],
+   "answer": 0,
+   "explain": "to seek – sought – sought.",
+   "section": "liste"
+  },
+  {
+   "id": "trap5",
+   "type": "qcm",
+   "q": "Prétérit de to forbid ?",
+   "choices": [
+    "forbade",
+    "forbidded",
+    "forbad",
+    "forbidden"
+   ],
+   "answer": 0,
+   "explain": "to forbid – forbade – forbidden.",
+   "section": "liste"
+  }
+ ],
+ "order": [],
+ "cards": [
+  {
+   "id": "c-to-arise",
+   "front": "to arise (se lever)",
+   "back": "arose – arisen",
+   "short": "arose – arisen",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-awake",
+   "front": "to awake (s’éveiller)",
+   "back": "awoke – awoken",
+   "short": "awoke – awoken",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-be",
+   "front": "to be (être)",
+   "back": "was / were – been",
+   "short": "was / were – been",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-bear",
+   "front": "to bear (porter)",
+   "back": "bore – borne",
+   "short": "bore – borne",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-beat",
+   "front": "to beat (battre)",
+   "back": "beat – beaten",
+   "short": "beat – beaten",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-become",
+   "front": "to become (devenir)",
+   "back": "became – become",
+   "short": "became – become",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-begin",
+   "front": "to begin (commencer)",
+   "back": "began – begun",
+   "short": "began – begun",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-bend",
+   "front": "to bend (courber)",
+   "back": "bent – bent",
+   "short": "bent – bent",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-bet",
+   "front": "to bet (parier)",
+   "back": "bet – bet",
+   "short": "bet – bet",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-bind",
+   "front": "to bind (lier)",
+   "back": "bound – bound",
+   "short": "bound – bound",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-bite",
+   "front": "to bite (mordre)",
+   "back": "bit – bitten",
+   "short": "bit – bitten",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-bleed",
+   "front": "to bleed (saigner)",
+   "back": "bled – bled",
+   "short": "bled – bled",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-blow",
+   "front": "to blow (souffler)",
+   "back": "blew – blown",
+   "short": "blew – blown",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-break",
+   "front": "to break (briser)",
+   "back": "broke – broken",
+   "short": "broke – broken",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-breed",
+   "front": "to breed (élever)",
+   "back": "bred – bred",
+   "short": "bred – bred",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-bring",
+   "front": "to bring (apporter)",
+   "back": "brought – brought",
+   "short": "brought – brought",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-build",
+   "front": "to build (construire)",
+   "back": "built – built",
+   "short": "built – built",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-burn",
+   "front": "to burn (brûler)",
+   "back": "burnt – burnt",
+   "short": "burnt – burnt",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-burst",
+   "front": "to burst (éclater)",
+   "back": "burst – burst",
+   "short": "burst – burst",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-buy",
+   "front": "to buy (acheter)",
+   "back": "bought – bought",
+   "short": "bought – bought",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-cast",
+   "front": "to cast (lancer)",
+   "back": "cast – cast",
+   "short": "cast – cast",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-catch",
+   "front": "to catch (attraper)",
+   "back": "caught – caught",
+   "short": "caught – caught",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-choose",
+   "front": "to choose (choisir)",
+   "back": "chose – chosen",
+   "short": "chose – chosen",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-cling",
+   "front": "to cling (s’accrocher)",
+   "back": "clung – clung",
+   "short": "clung – clung",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-clothe",
+   "front": "to clothe (habiller)",
+   "back": "clothed / clad – clothed / clad",
+   "short": "clothed / clad – clothed / clad",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-come",
+   "front": "to come (venir)",
+   "back": "came – come",
+   "short": "came – come",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-cost",
+   "front": "to cost (coûter)",
+   "back": "cost – cost",
+   "short": "cost – cost",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-creep",
+   "front": "to creep (ramper)",
+   "back": "crept – crept",
+   "short": "crept – crept",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-cut",
+   "front": "to cut (couper)",
+   "back": "cut – cut",
+   "short": "cut – cut",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-deal",
+   "front": "to deal (distribuer)",
+   "back": "dealt – dealt",
+   "short": "dealt – dealt",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-dig",
+   "front": "to dig (creuser)",
+   "back": "dug – dug",
+   "short": "dug – dug",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-do",
+   "front": "to do (faire)",
+   "back": "did – done",
+   "short": "did – done",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-draw",
+   "front": "to draw (tirer)",
+   "back": "drew – drawn",
+   "short": "drew – drawn",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-dream",
+   "front": "to dream (rêver)",
+   "back": "dreamt – dreamt",
+   "short": "dreamt – dreamt",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-drink",
+   "front": "to drink (boire)",
+   "back": "drank – drunk",
+   "short": "drank – drunk",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-drive",
+   "front": "to drive (conduire)",
+   "back": "drove – driven",
+   "short": "drove – driven",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-eat",
+   "front": "to eat (manger)",
+   "back": "ate – eaten",
+   "short": "ate – eaten",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-fall",
+   "front": "to fall (tomber)",
+   "back": "fell – fallen",
+   "short": "fell – fallen",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-feed",
+   "front": "to feed (nourrir)",
+   "back": "fed – fed",
+   "short": "fed – fed",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-feel",
+   "front": "to feel (ressentir)",
+   "back": "felt – felt",
+   "short": "felt – felt",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-fight",
+   "front": "to fight (combattre)",
+   "back": "fought – fought",
+   "short": "fought – fought",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-find",
+   "front": "to find (trouver)",
+   "back": "found – found",
+   "short": "found – found",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-flee",
+   "front": "to flee (s’enfuir)",
+   "back": "fled – fled",
+   "short": "fled – fled",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-fling",
+   "front": "to fling (lancer)",
+   "back": "flung – flung",
+   "short": "flung – flung",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-fly",
+   "front": "to fly (voler)",
+   "back": "flew – flown",
+   "short": "flew – flown",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-forbid",
+   "front": "to forbid (interdire)",
+   "back": "forbade – forbidden",
+   "short": "forbade – forbidden",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-forget",
+   "front": "to forget (oublier)",
+   "back": "forgot – forgotten",
+   "short": "forgot – forgotten",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-forgive",
+   "front": "to forgive (pardonner)",
+   "back": "forgave – forgiven",
+   "short": "forgave – forgiven",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-freeze",
+   "front": "to freeze (geler)",
+   "back": "froze – frozen",
+   "short": "froze – frozen",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-get",
+   "front": "to get (obtenir)",
+   "back": "got – got",
+   "short": "got – got",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-gild",
+   "front": "to gild (dorer)",
+   "back": "gilded / gilt – gilded / gilt",
+   "short": "gilded / gilt – gilded / gilt",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-give",
+   "front": "to give (donner)",
+   "back": "gave – given",
+   "short": "gave – given",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-go",
+   "front": "to go (aller)",
+   "back": "went – gone",
+   "short": "went – gone",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-grind",
+   "front": "to grind (moudre)",
+   "back": "ground – ground",
+   "short": "ground – ground",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-grow",
+   "front": "to grow (croître)",
+   "back": "grew – grown",
+   "short": "grew – grown",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-hang",
+   "front": "to hang (suspendre)",
+   "back": "hung – hung",
+   "short": "hung – hung",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-have",
+   "front": "to have (avoir)",
+   "back": "had – had",
+   "short": "had – had",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-hear",
+   "front": "to hear (entendre)",
+   "back": "heard – heard",
+   "short": "heard – heard",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-hide",
+   "front": "to hide (cacher)",
+   "back": "hid – hidden",
+   "short": "hid – hidden",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-hit",
+   "front": "to hit (frapper)",
+   "back": "hit – hit",
+   "short": "hit – hit",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-hold",
+   "front": "to hold (tenir)",
+   "back": "held – held",
+   "short": "held – held",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-hurt",
+   "front": "to hurt (blesser)",
+   "back": "hurt – hurt",
+   "short": "hurt – hurt",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-keep",
+   "front": "to keep (garder)",
+   "back": "kept – kept",
+   "short": "kept – kept",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-kneel",
+   "front": "to kneel (s’agenouiller)",
+   "back": "knelt – knelt",
+   "short": "knelt – knelt",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-knit",
+   "front": "to knit (tricoter)",
+   "back": "knit – knit",
+   "short": "knit – knit",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-know",
+   "front": "to know (connaître)",
+   "back": "knew – known",
+   "short": "knew – known",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-lay",
+   "front": "to lay (étendre)",
+   "back": "laid – laid",
+   "short": "laid – laid",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-lead",
+   "front": "to lead (conduire)",
+   "back": "led – led",
+   "short": "led – led",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-lean",
+   "front": "to lean (se pencher)",
+   "back": "leant – leant",
+   "short": "leant – leant",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-leap",
+   "front": "to leap (bondir)",
+   "back": "leapt – leapt",
+   "short": "leapt – leapt",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-learn",
+   "front": "to learn (apprendre)",
+   "back": "learnt – learnt",
+   "short": "learnt – learnt",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-leave",
+   "front": "to leave (quitter)",
+   "back": "left – left",
+   "short": "left – left",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-lend",
+   "front": "to lend (prêter)",
+   "back": "lent – lent",
+   "short": "lent – lent",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-let",
+   "front": "to let (louer, laisser)",
+   "back": "let – let",
+   "short": "let – let",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-lie",
+   "front": "to lie (être allongé)",
+   "back": "lay – lain",
+   "short": "lay – lain",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-light",
+   "front": "to light (éclairer)",
+   "back": "lit – lit",
+   "short": "lit – lit",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-lose",
+   "front": "to lose (perdre)",
+   "back": "lost – lost",
+   "short": "lost – lost",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-make",
+   "front": "to make (faire)",
+   "back": "made – made",
+   "short": "made – made",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-mean",
+   "front": "to mean (signifier)",
+   "back": "meant – meant",
+   "short": "meant – meant",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-meet",
+   "front": "to meet (rencontrer)",
+   "back": "met – met",
+   "short": "met – met",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-mistake",
+   "front": "to mistake (se méprendre)",
+   "back": "mistook – mistaken",
+   "short": "mistook – mistaken",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-mow",
+   "front": "to mow (faucher)",
+   "back": "mowed – mown",
+   "short": "mowed – mown",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-overcome",
+   "front": "to overcome (surmonter)",
+   "back": "overcame – overcome",
+   "short": "overcame – overcome",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-pay",
+   "front": "to pay (payer)",
+   "back": "paid – paid",
+   "short": "paid – paid",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-put",
+   "front": "to put (poser, mettre)",
+   "back": "put – put",
+   "short": "put – put",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-read",
+   "front": "to read (lire)",
+   "back": "read – read",
+   "short": "read – read",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-rid",
+   "front": "to rid (débarrasser)",
+   "back": "rid – rid",
+   "short": "rid – rid",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-ride",
+   "front": "to ride (aller à cheval)",
+   "back": "rode – ridden",
+   "short": "rode – ridden",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-ring",
+   "front": "to ring (sonner)",
+   "back": "rang – rung",
+   "short": "rang – rung",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-rise",
+   "front": "to rise (se lever)",
+   "back": "rose – risen",
+   "short": "rose – risen",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-run",
+   "front": "to run (courir)",
+   "back": "ran – run",
+   "short": "ran – run",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-saw",
+   "front": "to saw (scier)",
+   "back": "sawed – sawn",
+   "short": "sawed – sawn",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-say",
+   "front": "to say (dire)",
+   "back": "said – said",
+   "short": "said – said",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-see",
+   "front": "to see (voir)",
+   "back": "saw – seen",
+   "short": "saw – seen",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-seek",
+   "front": "to seek (chercher)",
+   "back": "sought – sought",
+   "short": "sought – sought",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-sell",
+   "front": "to sell (vendre)",
+   "back": "sold – sold",
+   "short": "sold – sold",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-send",
+   "front": "to send (envoyer)",
+   "back": "sent – sent",
+   "short": "sent – sent",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-set",
+   "front": "to set (poser)",
+   "back": "set – set",
+   "short": "set – set",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-sew",
+   "front": "to sew (coudre)",
+   "back": "sewed – sewn",
+   "short": "sewed – sewn",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-shed",
+   "front": "to shed (verser ( des larmes ))",
+   "back": "shed – shed",
+   "short": "shed – shed",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-shake",
+   "front": "to shake (secouer)",
+   "back": "shook – shaken",
+   "short": "shook – shaken",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-shine",
+   "front": "to shine (briller)",
+   "back": "shone – shone",
+   "short": "shone – shone",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-shoot",
+   "front": "to shoot (tirer ( fusil ))",
+   "back": "shot – shot",
+   "short": "shot – shot",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-show",
+   "front": "to show (montrer)",
+   "back": "showed – shown",
+   "short": "showed – shown",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-shrink",
+   "front": "to shrink (rétrécir)",
+   "back": "shrank – shrunk",
+   "short": "shrank – shrunk",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-shut",
+   "front": "to shut (fermer)",
+   "back": "shut – shut",
+   "short": "shut – shut",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-sing",
+   "front": "to sing (chanter)",
+   "back": "sang – sung",
+   "short": "sang – sung",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-sink",
+   "front": "to sink (s’enfoncer)",
+   "back": "sank – sunk",
+   "short": "sank – sunk",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-sit",
+   "front": "to sit (être assis)",
+   "back": "sat – sat",
+   "short": "sat – sat",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-sleep",
+   "front": "to sleep (dormir)",
+   "back": "slept – slept",
+   "short": "slept – slept",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-slide",
+   "front": "to slide (glisser)",
+   "back": "slid – slid",
+   "short": "slid – slid",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-sling",
+   "front": "to sling (lancer (avec une fronde))",
+   "back": "slung – slung",
+   "short": "slung – slung",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-slit",
+   "front": "to slit (fendre)",
+   "back": "slit – slit",
+   "short": "slit – slit",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-smell",
+   "front": "to smell (sentir ( odorat ))",
+   "back": "smelt – smelt",
+   "short": "smelt – smelt",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-sow",
+   "front": "to sow (semer)",
+   "back": "sowed – sown",
+   "short": "sowed – sown",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-speak",
+   "front": "to speak (parler)",
+   "back": "spoke – spoken",
+   "short": "spoke – spoken",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-speed",
+   "front": "to speed (se hâter)",
+   "back": "sped – sped",
+   "short": "sped – sped",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-spell",
+   "front": "to spell (épeler)",
+   "back": "spelt – spelt",
+   "short": "spelt – spelt",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-spend",
+   "front": "to spend (dépenser)",
+   "back": "spent – spent",
+   "short": "spent – spent",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-spill",
+   "front": "to spill (répandre)",
+   "back": "spilt – spilt",
+   "short": "spilt – spilt",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-spin",
+   "front": "to spin (tourner (sur soi-même))",
+   "back": "spun – spun",
+   "short": "spun – spun",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-spit",
+   "front": "to spit (cracher)",
+   "back": "spat – spat",
+   "short": "spat – spat",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-split",
+   "front": "to split (( se ) fendre)",
+   "back": "split – split",
+   "short": "split – split",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-spoil",
+   "front": "to spoil (gâter)",
+   "back": "spoilt – spoilt",
+   "short": "spoilt – spoilt",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-spread",
+   "front": "to spread (étaler)",
+   "back": "spread – spread",
+   "short": "spread – spread",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-spring",
+   "front": "to spring (jaillir, sauter)",
+   "back": "sprang – sprung",
+   "short": "sprang – sprung",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-stand",
+   "front": "to stand (être debout)",
+   "back": "stood – stood",
+   "short": "stood – stood",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-steal",
+   "front": "to steal (dérober)",
+   "back": "stole – stolen",
+   "short": "stole – stolen",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-stick",
+   "front": "to stick (coller)",
+   "back": "stuck – stuck",
+   "short": "stuck – stuck",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-sting",
+   "front": "to sting (piquer)",
+   "back": "stung – stung",
+   "short": "stung – stung",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-stink",
+   "front": "to stink (sentir mauvais)",
+   "back": "stank – stunk",
+   "short": "stank – stunk",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-stride",
+   "front": "to stride (aller à grands pas)",
+   "back": "strode – stridden",
+   "short": "strode – stridden",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-strike",
+   "front": "to strike (frapper)",
+   "back": "struck – struck",
+   "short": "struck – struck",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-string",
+   "front": "to string (enfiler)",
+   "back": "strung – strung",
+   "short": "strung – strung",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-strive",
+   "front": "to strive (s’efforcer)",
+   "back": "strove – striven",
+   "short": "strove – striven",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-swear",
+   "front": "to swear (jurer)",
+   "back": "swore – sworn",
+   "short": "swore – sworn",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-sweep",
+   "front": "to sweep (balayer)",
+   "back": "swept – swept",
+   "short": "swept – swept",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-swell",
+   "front": "to swell (gonfler)",
+   "back": "swelled – swollen",
+   "short": "swelled – swollen",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-swim",
+   "front": "to swim (nager)",
+   "back": "swam – swum",
+   "short": "swam – swum",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-swing",
+   "front": "to swing (( se ) balancer)",
+   "back": "swung – swung",
+   "short": "swung – swung",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-take",
+   "front": "to take (prendre)",
+   "back": "took – taken",
+   "short": "took – taken",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-teach",
+   "front": "to teach (enseigner)",
+   "back": "taught – taught",
+   "short": "taught – taught",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-tear",
+   "front": "to tear (déchirer)",
+   "back": "tore – torn",
+   "short": "tore – torn",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-tell",
+   "front": "to tell (raconter)",
+   "back": "told – told",
+   "short": "told – told",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-think",
+   "front": "to think (penser)",
+   "back": "thought – thought",
+   "short": "thought – thought",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-throw",
+   "front": "to throw (jeter)",
+   "back": "threw – thrown",
+   "short": "threw – thrown",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-thrust",
+   "front": "to thrust (pousser, fourrer)",
+   "back": "thrust – thrust",
+   "short": "thrust – thrust",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-understand",
+   "front": "to understand (comprendre)",
+   "back": "understood – understood",
+   "short": "understood – understood",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-upset",
+   "front": "to upset (renverser)",
+   "back": "upset – upset",
+   "short": "upset – upset",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-wake",
+   "front": "to wake (s’éveiller)",
+   "back": "woke – woken",
+   "short": "woke – woken",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-wear",
+   "front": "to wear (porter ( vêtements ))",
+   "back": "wore – worn",
+   "short": "wore – worn",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-weave",
+   "front": "to weave (tisser)",
+   "back": "wove – woven",
+   "short": "wove – woven",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-weep",
+   "front": "to weep (pleurer)",
+   "back": "wept – wept",
+   "short": "wept – wept",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-win",
+   "front": "to win (gagner)",
+   "back": "won – won",
+   "short": "won – won",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-wind",
+   "front": "to wind (remonter)",
+   "back": "wound – wound",
+   "short": "wound – wound",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-withdraw",
+   "front": "to withdraw (retirer)",
+   "back": "withdrew – withdrawn",
+   "short": "withdrew – withdrawn",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-withstand",
+   "front": "to withstand (résister)",
+   "back": "withstood – withstood",
+   "short": "withstood – withstood",
+   "section": "liste"
+  },
+  {
+   "id": "c-to-write",
+   "front": "to write (écrire)",
+   "back": "wrote – written",
+   "short": "wrote – written",
+   "section": "liste"
+  }
+ ]
+}

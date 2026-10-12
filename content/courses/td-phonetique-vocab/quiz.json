@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {"id": "q1", "type": "qcm", "q": "Dans l'exercice, « cereal killer » se lit comme…", "choices": ["serial killer", "real killer", "sea killer", "series killer"], "answer": 0, "explain": "cereal / serial sont homophones.", "section": "homophones"},
+    {"id": "q2", "type": "qcm", "q": "« court inner gorilla wore » se lit…", "choices": ["caught in a guerrilla war", "court in a gorilla war", "caught inner gorillas", "cut in a guerrilla way"], "answer": 0, "explain": "", "section": "homophones"},
+    {"id": "q3", "type": "qcm", "q": "« the sauce of violence » se lit…", "choices": ["the source of violence", "the sorts of violence", "the cause of violence", "the force of violence"], "answer": 0, "explain": "En anglais britannique, le r de source ne se prononce pas.", "section": "homophones"},
+    {"id": "q4", "type": "qcm", "q": "Pourquoi gorilla et guerrilla se prononcent-ils pareil ?", "choices": ["La 1re syllabe non accentuée est réduite au schwa /ə/", "Ils ont la même origine", "C'est une faute", "Le g est muet"], "answer": 0, "explain": "/ɡəˈrɪlə/ : accent sur la 2e syllabe.", "section": "homophones"},
+    {"id": "q5", "type": "qcm", "q": "Quel est le son le plus fréquent de l'anglais, voyelle des syllabes non accentuées ?", "choices": ["/ə/ (schwa)", "/iː/", "/æ/", "/ʌ/"], "answer": 0, "explain": "Comme dans teacher, about.", "section": "api"},
+    {"id": "q6", "type": "qcm", "q": "Quel mot contient le son /θ/ ?", "choices": ["think", "this", "tea", "see"], "answer": 0, "explain": "this = /ð/.", "section": "api"},
+    {"id": "q7", "type": "qcm", "q": "Quel mot contient le son /ʒ/ ?", "choices": ["television", "shall", "June", "zoo"], "answer": 0, "explain": "shall = /ʃ/, June = /dʒ/.", "section": "api"},
+    {"id": "q8", "type": "qcm", "q": "Le son /ŋ/ s'entend dans…", "choices": ["singer", "now", "man", "yes"], "answer": 0, "explain": "", "section": "api"},
+    {"id": "q9", "type": "qcm", "q": "/iː/ (long) s'entend dans sheep ; /ɪ/ (court) dans…", "choices": ["ship", "shoot", "shall", "cheese"], "answer": 0, "explain": "", "section": "api"},
+    {"id": "q10", "type": "qcm", "q": "Burnout means…", "choices": ["physical and emotional exhaustion caused by prolonged stress", "the ability to share feelings", "negative beliefs about mental health", "a feeling of happiness"], "answer": 0, "explain": "", "section": "vocab"},
+    {"id": "q11", "type": "qcm", "q": "The capacity to recover quickly from tough situations is…", "choices": ["resilience", "empathy", "stigma", "anxiety"], "answer": 0, "explain": "", "section": "vocab"},
+    {"id": "q12", "type": "qcm", "q": "Negative or unfair beliefs about mental health issues are called…", "choices": ["stigma", "wellbeing", "coping skills", "burnout"], "answer": 0, "explain": "", "section": "vocab"},
+    {"id": "q13", "type": "trou", "q": "The ability to understand and share the feelings of another person: ___.", "answer": "empathy", "alts": [], "explain": "", "section": "vocab"},
+    {"id": "q14", "type": "trou", "q": "Techniques used to manage stress: coping ___.", "answer": "skills", "alts": [], "explain": "", "section": "vocab"}
+  ],
+  "order": [],
+  "cards": [
+    {"id": "c1", "front": "Anxiety", "back": "Worry or unease about an uncertain outcome", "short": "Worry, unease", "section": "vocab"},
+    {"id": "c2", "front": "Stigma", "back": "Negative or unfair beliefs about mental health issues", "short": "Unfair beliefs", "section": "vocab"},
+    {"id": "c3", "front": "Resilience", "back": "Capacity to recover quickly from tough situations", "short": "Recover quickly", "section": "vocab"},
+    {"id": "c4", "front": "Empathy", "back": "Understanding and sharing another person's feelings", "short": "Share feelings", "section": "vocab"},
+    {"id": "c5", "front": "Burnout", "back": "Exhaustion caused by prolonged stress", "short": "Exhaustion from stress", "section": "vocab"},
+    {"id": "c6", "front": "Coping skills", "back": "Strategies to manage stress and emotional challenges", "short": "Manage stress", "section": "vocab"},
+    {"id": "c7", "front": "Wellbeing", "back": "Overall comfort, health, happiness and balance", "short": "Comfort and health", "section": "vocab"},
+    {"id": "c8", "front": "Schwa /ə/", "back": "Voyelle réduite des syllabes non accentuées", "short": "Voyelle réduite", "section": "api"}
+  ]
+}

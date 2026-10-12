@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {"id": "q1", "type": "qcm", "q": "Qui est le fondateur de la kinésique ?", "choices": ["Ray Birdwhistell", "Edward T. Hall", "David Le Breton", "Denise Jodelet"], "answer": 0, "explain": "Anthropologue américain (1918-1994), lié à l'École de Palo Alto.", "section": "orchestre"},
+    {"id": "q2", "type": "qcm", "q": "Que remet en avant l'École de Palo Alto ?", "choices": ["La communication non verbale", "La communication écrite uniquement", "La publicité", "La grammaire"], "answer": 0, "explain": "Avant, on étudiait surtout le langage et les mots.", "section": "orchestre"},
+    {"id": "q3", "type": "trou", "q": "Axiome de Palo Alto : « On ne peut pas ne pas ___ ».", "answer": "communiquer", "alts": [], "explain": "Même le silence ou le retrait transmettent un message.", "section": "orchestre"},
+    {"id": "q4", "type": "qcm", "q": "La métaphore de l'homme-orchestre signifie que…", "choices": ["l'on communique avec plusieurs canaux à la fois", "seul le langage compte", "il faut un chef pour communiquer", "la musique aide à communiquer"], "answer": 0, "explain": "C'est un modèle multicanal : les sens sont des canaux.", "section": "orchestre"},
+    {"id": "q5", "type": "qcm", "q": "Les gestes spontanés liés au langage, qui « font vivre les mots », sont les gestes…", "choices": ["coverbaux", "d'auto-contact", "proxémiques", "olfactifs"], "answer": 0, "explain": "Ils accompagnent le discours.", "section": "orchestre"},
+    {"id": "q6", "type": "qcm", "q": "La tessiture et l'intonation de la voix relèvent du canal…", "choices": ["auditif", "visuel", "tactile", "kinesthésique"], "answer": 0, "explain": "L'ouïe.", "section": "sens"},
+    {"id": "q7", "type": "qcm", "q": "Pourquoi marcher ou dessiner au téléphone ?", "choices": ["Pour mobiliser davantage le corps et mieux se concentrer", "Par impolitesse", "Pour couper la conversation", "Pour être vu"], "answer": 0, "explain": "Au téléphone, les autres sens sont moins mobilisés.", "section": "sens"},
+    {"id": "q8", "type": "qcm", "q": "« Le corps nuance, confirme ou dément la parole » est de…", "choices": ["David Le Breton", "Ray Birdwhistell", "Edward T. Hall", "Habermas"], "answer": 0, "explain": "La Sociologie du corps.", "section": "corps"},
+    {"id": "q9", "type": "qcm", "q": "Sur quelle dimension de l'apparence a-t-on une marge de manœuvre étroite ?", "choices": ["La dimension physique (taille, poids…)", "La dimension symbolique (mode)", "Les vêtements", "La coiffure"], "answer": 0, "explain": "La dimension symbolique, elle, se travaille et dépend des modes.", "section": "apparence"},
+    {"id": "q10", "type": "qcm", "q": "La kinésie étudie…", "choices": ["les mouvements du visage et du corps", "les distances entre individus", "les odeurs", "la voix"], "answer": 0, "explain": "Du grec kinêsis, mouvement.", "section": "kinesie"},
+    {"id": "q11", "type": "qcm", "q": "Mimer ce que l'on raconte avec les mains relève de la gestualité…", "choices": ["illustrative", "désignante", "linguistique", "d'auto-contact"], "answer": 0, "explain": "Elle rend visibles les représentations du locuteur.", "section": "kinesie"},
+    {"id": "q12", "type": "qcm", "q": "Tortiller une mèche de cheveux pendant un oral est un geste…", "choices": ["d'auto-contact", "désignant", "illustratif", "de pilotage de l'interaction"], "answer": 0, "explain": "Il sert à se donner une contenance et gérer l'émotion.", "section": "kinesie"},
+    {"id": "q13", "type": "qcm", "q": "Les mimiques faciales indiquent surtout…", "choices": ["la nature des émotions", "l'intensité des émotions", "la distance sociale", "l'âge"], "answer": 0, "explain": "Les autres indices corporels indiquent l'intensité.", "section": "kinesie"},
+    {"id": "q14", "type": "qcm", "q": "La fonction déictique d'un geste consiste à…", "choices": ["désigner", "exprimer un sentiment", "se rassurer", "saluer"], "answer": 0, "explain": "C'est la fonction référentielle de désignation.", "section": "kinesie"},
+    {"id": "q15", "type": "qcm", "q": "Qui a théorisé la proxémie ?", "choices": ["Edward T. Hall", "Ray Birdwhistell", "Paul Watzlawick", "David Le Breton"], "answer": 0, "explain": "La Dimension cachée (1966).", "section": "proxemie"},
+    {"id": "q16", "type": "qcm", "q": "Quelle est la distance personnelle selon Hall ?", "choices": ["45 cm à 1,20 m", "0 à 45 cm", "1,20 m à 3,60 m", "plus de 3,60 m"], "answer": 0, "explain": "Pour les amis.", "section": "proxemie"},
+    {"id": "q17", "type": "qcm", "q": "Une interaction professionnelle se déroule généralement dans la bulle…", "choices": ["sociale", "intime", "personnelle", "publique"], "answer": 0, "explain": "1,20 m à 3,60 m.", "section": "proxemie"},
+    {"id": "q18", "type": "qcm", "q": "En quelle année paraît Le Langage silencieux de Hall ?", "choices": ["1959", "1966", "1976", "1993"], "answer": 0, "explain": "La Dimension cachée : 1966 ; Au-delà de la culture : 1976.", "section": "proxemie"},
+    {"id": "q19", "type": "vf", "q": "Les distances de la proxémie sont les mêmes dans toutes les cultures.", "answer": false, "explain": "Elles varient selon la culture et l'éducation : ce sont des métaphores.", "section": "proxemie"},
+    {"id": "q20", "type": "qcm", "q": "Pourquoi les conducteurs se permettent-ils des comportements agressifs ?", "choices": ["Sentiment d'anonymat, comme derrière un écran", "Ils ne voient pas les autres", "La loi les y autorise", "Le bruit du moteur"], "answer": 0, "explain": "« On ne me retrouvera pas… »", "section": "kinesie"},
+    {"id": "q21", "type": "vf", "q": "Poser son sac sur le siège voisin peut être un moyen de marquer son espace.", "answer": true, "explain": "C'est un exemple de gestion de la distance.", "section": "sens"}
+  ],
+  "order": [
+    {"id": "o1", "q": "Classe les bulles de Hall de la plus proche à la plus éloignée", "items": ["Intime", "Personnelle", "Sociale", "Publique"], "section": "proxemie"}
+  ],
+  "cards": [
+    {"id": "c1", "front": "Kinésique / kinésie", "back": "Étude des mouvements du corps et du visage (Birdwhistell)", "short": "Mouvements du corps", "section": "kinesie"},
+    {"id": "c2", "front": "Proxémie", "back": "Gestion de la distance et de l'espace entre individus (Hall)", "short": "Distance entre individus", "section": "proxemie"},
+    {"id": "c3", "front": "École de Palo Alto", "back": "Chercheurs pluridisciplinaires qui valorisent la communication non verbale", "short": "Valorise le non verbal", "section": "orchestre"},
+    {"id": "c4", "front": "Homme-orchestre", "back": "On communique avec plusieurs canaux (sens) en même temps", "short": "Communication multicanal", "section": "orchestre"},
+    {"id": "c5", "front": "Gestes coverbaux", "back": "Gestes spontanés qui accompagnent la parole", "short": "Accompagnent la parole", "section": "kinesie"},
+    {"id": "c6", "front": "Gestes d'auto-contact", "back": "Se toucher les cheveux, jouer avec un stylo : se donner une contenance", "short": "Se donner une contenance", "section": "kinesie"},
+    {"id": "c7", "front": "Bulle intime", "back": "Jusqu'à 45 cm : embrasser, chuchoter", "short": "Jusqu'à 45 cm", "section": "proxemie"},
+    {"id": "c8", "front": "Bulle sociale", "back": "1,20 m à 3,60 m : connaissances, travail", "short": "1,20 à 3,60 m", "section": "proxemie"},
+    {"id": "c9", "front": "Fonction déictique", "back": "Un geste qui désigne", "short": "Désigner", "section": "kinesie"},
+    {"id": "c10", "front": "Fonction expressive", "back": "Un geste qui traduit les sentiments ou la personnalité", "short": "Traduire les sentiments", "section": "kinesie"}
+  ]
+}

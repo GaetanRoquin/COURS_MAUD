@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {"id": "q1", "type": "qcm", "q": "La myopie ou la faim qui rend sensible aux odeurs sont des facteurs…", "choices": ["physiologiques", "psychologiques", "sociologiques", "culturels"], "answer": 0, "explain": "Ce sont les limites et les états de nos sens.", "section": "perception"},
+    {"id": "q2", "type": "qcm", "q": "Les préjugés et les langages différents selon le milieu sont des freins…", "choices": ["sociologiques", "physiologiques", "psychologiques", "techniques"], "answer": 0, "explain": "Ils renvoient aux représentations sociales.", "section": "perception"},
+    {"id": "q3", "type": "qcm", "q": "La timidité ou l'antipathie sont des freins…", "choices": ["psychologiques", "physiologiques", "sociologiques", "olfactifs"], "answer": 0, "explain": "", "section": "perception"},
+    {"id": "q4", "type": "qcm", "q": "Une illusion d'optique crée un conflit entre…", "choices": ["l'œil et le cerveau", "deux personnes", "l'émetteur et le récepteur", "le son et l'image"], "answer": 0, "explain": "Elle attire l'attention et montre qu'on ne voit pas tous la même chose.", "section": "perception"},
+    {"id": "q5", "type": "qcm", "q": "Qui a défini la représentation sociale comme « une forme de connaissance de sens commun, socialement élaborée et partagée » ?", "choices": ["Denise Jodelet", "Edward T. Hall", "David Le Breton", "Martine Joly"], "answer": 0, "explain": "Elle a une visée pratique d'orientation des conduites.", "section": "representations"},
+    {"id": "q6", "type": "vf", "q": "Les représentations sociales ne peuvent jamais changer.", "answer": false, "explain": "Avec de la volonté et des expériences différentes, elles peuvent se modifier.", "section": "representations"},
+    {"id": "q7", "type": "qcm", "q": "À quoi servent les marqueurs de reconnaissance (âge, vêtements, attitudes) ?", "choices": ["Savoir vite à qui on a affaire et anticiper ses attentes", "Juger les gens définitivement", "Remplacer la parole", "Mesurer la distance"], "answer": 0, "explain": "Besoin de lisibilité sociale pour initier la communication.", "section": "representations"},
+    {"id": "q8", "type": "qcm", "q": "Quelles sont les trois dimensions de l'âge ?", "choices": ["Naturelle, sociale, culturelle", "Physique, mentale, légale", "Jeune, adulte, senior", "Biologique, financière, familiale"], "answer": 0, "explain": "", "section": "age"},
+    {"id": "q9", "type": "qcm", "q": "Selon le cours, ce qui façonne les comportements attendus, c'est…", "choices": ["la représentation sociale d'une classe d'âge", "le nombre exact d'années", "la date de naissance", "la taille"], "answer": 0, "explain": "Le nombre d'années importe peu, on peut le cacher.", "section": "age"},
+    {"id": "q10", "type": "qcm", "q": "Pourquoi transmet-on les rumeurs ?", "choices": ["Source crédible, info vraisemblable ou souhaitable", "Parce qu'elles sont toujours vraies", "Par obligation", "Parce qu'elles sont écrites"], "answer": 0, "explain": "Beaucoup d'infos passent parce qu'on désire y croire.", "section": "rumeurs"},
+    {"id": "q11", "type": "qcm", "q": "Quelle différence entre une rumeur orale et une fake news ?", "choices": ["La fake news est destinée à tromper", "La rumeur est toujours vraie", "Il n'y en a aucune", "La fake news est orale"], "answer": 0, "explain": "", "section": "rumeurs"},
+    {"id": "q12", "type": "vf", "q": "Quand on est pressé, on a l'impression de tomber sur tous les feux rouges : c'est une distorsion de perception.", "answer": true, "explain": "Nos préoccupations nous font percevoir des événements qui ne résistent pas à la réalité.", "section": "perception"}
+  ],
+  "order": [],
+  "cards": [
+    {"id": "c1", "front": "Représentation sociale", "back": "Connaissance de sens commun, socialement élaborée et partagée, qui oriente les conduites (Jodelet)", "short": "Connaissance de sens commun partagée", "section": "representations"},
+    {"id": "c2", "front": "Stéréotype", "back": "Généralisation issue de représentations sociales globales", "short": "Généralisation abusive", "section": "age"},
+    {"id": "c3", "front": "Lisibilité sociale", "back": "Classer rapidement un individu grâce à des marqueurs (âge, vêtements…)", "short": "Classer avec des marqueurs", "section": "representations"},
+    {"id": "c4", "front": "Rumeur", "back": "Information transmise car crédible, vraisemblable ou souhaitable", "short": "Info qu'on veut croire", "section": "rumeurs"},
+    {"id": "c5", "front": "Illusion d'optique", "back": "Conflit entre l'œil et le cerveau", "short": "Œil vs cerveau", "section": "perception"}
+  ]
+}

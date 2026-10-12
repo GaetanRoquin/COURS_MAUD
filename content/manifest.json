@@ -1,0 +1,327 @@
+{
+ "courses": [
+  {
+   "id": "amphi-civi-us",
+   "title": "From America before the United States to the Constitution",
+   "type": "amphi",
+   "matiere": "Civilisation américaine",
+   "chapitre": "Chapitre 1",
+   "order": 1.0,
+   "emoji": "🗽",
+   "description": "Native Americans, colonization, the 13 colonies, independence, the Constitution and how the federal government works.",
+   "lang": "en",
+   "sections": 15,
+   "quiz": {
+    "questions": 50,
+    "order": 4,
+    "cards": 14,
+    "vf": 3,
+    "trou": 4
+   }
+  },
+  {
+   "id": "amphi-com-interpersonnelle",
+   "title": "La communication non verbale",
+   "type": "amphi",
+   "matiere": "Communication interpersonnelle",
+   "chapitre": "Chapitre 1",
+   "order": 1.0,
+   "emoji": "🤝",
+   "description": "Ce que l'on montre, ce que l'on cache et ce qui nous échappe — l'école de Palo Alto, les sens, l'apparence, la kinésie et la proxémie.",
+   "lang": "fr",
+   "sections": 6,
+   "quiz": {
+    "questions": 21,
+    "order": 1,
+    "cards": 10,
+    "vf": 2,
+    "trou": 1
+   }
+  },
+  {
+   "id": "amphi-com-politique",
+   "title": "Les fondements de la communication politique",
+   "type": "amphi",
+   "matiere": "Communication publique et politique",
+   "chapitre": "Chapitre 1",
+   "order": 1.0,
+   "emoji": "🎙️",
+   "description": "L'espace public bourgeois selon Habermas, ses limites, et la définition de la communication politique.",
+   "lang": "fr",
+   "sections": 5,
+   "quiz": {
+    "questions": 13,
+    "order": 0,
+    "cards": 6,
+    "vf": 2,
+    "trou": 1
+   }
+  },
+  {
+   "id": "amphi-com-publique",
+   "title": "Introduction — La communication publique",
+   "type": "amphi",
+   "matiere": "Communication publique et politique",
+   "chapitre": "Introduction",
+   "order": 0.0,
+   "emoji": "🏛️",
+   "description": "Qu'est-ce que communiquer, définition et fondements de la communication publique, acteurs, missions, outils et principes.",
+   "lang": "fr",
+   "sections": 9,
+   "quiz": {
+    "questions": 20,
+    "order": 0,
+    "cards": 10,
+    "vf": 2,
+    "trou": 1
+   }
+  },
+  {
+   "id": "amphi-ecriture-fondamentaux",
+   "title": "Les fondamentaux de l'écriture journalistique",
+   "type": "amphi",
+   "matiere": "Techniques rédactionnelles",
+   "chapitre": "Chapitre 1",
+   "order": 1.0,
+   "emoji": "📰",
+   "description": "Ligne éditoriale, lois de proximité, message essentiel, 5W, pyramide inversée et plans d'écriture.",
+   "lang": "fr",
+   "sections": 12,
+   "quiz": {
+    "questions": 23,
+    "order": 3,
+    "cards": 11,
+    "vf": 4,
+    "trou": 2
+   }
+  },
+  {
+   "id": "amphi-ecriture-titraille",
+   "title": "Ligne éditoriale et titraille",
+   "type": "amphi",
+   "matiere": "Techniques rédactionnelles",
+   "chapitre": "Chapitre 2",
+   "order": 2.0,
+   "emoji": "🗞️",
+   "description": "Les 3 grandes questions de la ligne éditoriale, le contenu d'une publication, le chapeau et les intertitres.",
+   "lang": "fr",
+   "sections": 6,
+   "quiz": {
+    "questions": 20,
+    "order": 1,
+    "cards": 10,
+    "vf": 4,
+    "trou": 1
+   }
+  },
+  {
+   "id": "amphi-generationnel",
+   "title": "Jouer avec le temps en mode publicitaire",
+   "type": "amphi",
+   "matiere": "Approche générationnelle",
+   "chapitre": "Chapitre 1",
+   "order": 1.0,
+   "emoji": "📺",
+   "description": "Âge, génération, et les 5 registres communicationnels utilisés par la publicité.",
+   "lang": "fr",
+   "sections": 7,
+   "quiz": {
+    "questions": 22,
+    "order": 2,
+    "cards": 12,
+    "vf": 4,
+    "trou": 3
+   }
+  },
+  {
+   "id": "amphi-grammaire",
+   "title": "Les mots, ce qu'ils sont, ce qu'ils font",
+   "type": "amphi",
+   "matiere": "Grammaire anglaise",
+   "chapitre": "Partie 1",
+   "order": 1.0,
+   "emoji": "🔤",
+   "description": "Syntaxe et sémantique, nature et fonction, parties du discours, le groupe nominal et ses fonctions, transitivité, adjectifs.",
+   "lang": "fr",
+   "sections": 9,
+   "quiz": {
+    "questions": 38,
+    "order": 0,
+    "cards": 14,
+    "vf": 4,
+    "trou": 2
+   }
+  },
+  {
+   "id": "amphi-image",
+   "title": "L'image et la représentation",
+   "type": "amphi",
+   "matiere": "Culture de l'image",
+   "chapitre": "Chapitre 1",
+   "order": 1.0,
+   "emoji": "🖼️",
+   "description": "Ressemblance, représentation, systèmes de représentation, progrès ou transformation de l'image, l'image comme signe.",
+   "lang": "fr",
+   "sections": 13,
+   "quiz": {
+    "questions": 22,
+    "order": 1,
+    "cards": 9,
+    "vf": 4,
+    "trou": 2
+   }
+  },
+  {
+   "id": "amphi-verbes-irreguliers",
+   "title": "Les verbes irréguliers",
+   "type": "amphi",
+   "matiere": "Grammaire anglaise",
+   "chapitre": "Annexe",
+   "order": 9.0,
+   "emoji": "📋",
+   "description": "La liste des verbes irréguliers du cours (infinitif, prétérit, participe passé, traduction), corrigée.",
+   "lang": "fr",
+   "sections": 2,
+   "quiz": {
+    "questions": 322,
+    "order": 0,
+    "cards": 158,
+    "vf": 0,
+    "trou": 316
+   }
+  },
+  {
+   "id": "td-civi-textes",
+   "title": "Textes fondateurs (Mayflower, Plymouth, Déclaration)",
+   "type": "td",
+   "matiere": "Civilisation américaine",
+   "chapitre": "TD 1 à 3",
+   "order": 1.0,
+   "emoji": "📜",
+   "description": "Analyse du Mayflower Compact, de History of Plymouth Plantation et de la Déclaration d'indépendance.",
+   "lang": "fr",
+   "sections": 4,
+   "quiz": {
+    "questions": 19,
+    "order": 2,
+    "cards": 9,
+    "vf": 2,
+    "trou": 2
+   }
+  },
+  {
+   "id": "td-com-freins",
+   "title": "Ce qui freine la communication",
+   "type": "td",
+   "matiere": "Communication interpersonnelle",
+   "chapitre": "TD — Approfondissement du CM",
+   "order": 2.0,
+   "emoji": "🚧",
+   "description": "Distorsions de perception, illusions d'optique, représentations sociales (Jodelet), l'âge comme marqueur, stéréotypes et rumeurs.",
+   "lang": "fr",
+   "sections": 4,
+   "quiz": {
+    "questions": 12,
+    "order": 0,
+    "cards": 5,
+    "vf": 2,
+    "trou": 0
+   }
+  },
+  {
+   "id": "td-com-olfactive",
+   "title": "La communication olfactive",
+   "type": "td",
+   "matiere": "Communication interpersonnelle",
+   "chapitre": "TD — Odorat",
+   "order": 1.0,
+   "emoji": "👃",
+   "description": "Fonctionnement de l'odorat, perception et culture, odeurs et relations, marketing olfactif et limites des expériences.",
+   "lang": "fr",
+   "sections": 6,
+   "quiz": {
+    "questions": 13,
+    "order": 1,
+    "cards": 5,
+    "vf": 4,
+    "trou": 0
+   }
+  },
+  {
+   "id": "td-grammaire",
+   "title": "Groupes nominaux et fonctions (exercices)",
+   "type": "td",
+   "matiere": "Grammaire anglaise",
+   "chapitre": "TD — Chapitre 2",
+   "order": 2.0,
+   "emoji": "✏️",
+   "description": "Suffixes, groupes, noyau, sujet syntaxique / sémantique, COD / COI, transitivité, et les exercices corrigés du TD.",
+   "lang": "fr",
+   "sections": 7,
+   "quiz": {
+    "questions": 25,
+    "order": 0,
+    "cards": 10,
+    "vf": 3,
+    "trou": 1
+   }
+  },
+  {
+   "id": "td-image",
+   "title": "Étudier et analyser l'image",
+   "type": "td",
+   "matiere": "Culture de l'image",
+   "chapitre": "TD 1",
+   "order": 1.0,
+   "emoji": "🔍",
+   "description": "Qu'est-ce qu'une image, image entre réalité et représentation, systèmes de représentation, sémiologie (Saussure) et méthode d'analyse.",
+   "lang": "fr",
+   "sections": 10,
+   "quiz": {
+    "questions": 24,
+    "order": 2,
+    "cards": 10,
+    "vf": 2,
+    "trou": 1
+   }
+  },
+  {
+   "id": "td-phonetique-vocab",
+   "title": "Phonétique et vocabulaire",
+   "type": "td",
+   "matiere": "Anglais — Traduction",
+   "chapitre": "TD — Phonétique",
+   "order": 2.0,
+   "emoji": "🗣️",
+   "description": "L'alphabet phonétique, les homophones, le schwa, et le vocabulaire de la santé mentale.",
+   "lang": "fr",
+   "sections": 4,
+   "quiz": {
+    "questions": 14,
+    "order": 0,
+    "cards": 8,
+    "vf": 0,
+    "trou": 2
+   }
+  },
+  {
+   "id": "td-traduction",
+   "title": "Traduction — thème et version",
+   "type": "td",
+   "matiere": "Anglais — Traduction",
+   "chapitre": "TD 1 et 2",
+   "order": 1.0,
+   "emoji": "🔁",
+   "description": "Le barème, les techniques de traduction, le vocabulaire précis du thème, les temps anglais et les pièges de would / had.",
+   "lang": "fr",
+   "sections": 5,
+   "quiz": {
+    "questions": 27,
+    "order": 0,
+    "cards": 14,
+    "vf": 2,
+    "trou": 1
+   }
+  }
+ ]
+}

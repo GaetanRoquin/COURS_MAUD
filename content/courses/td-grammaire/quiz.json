@@ -1,0 +1,42 @@
+{
+  "questions": [
+    {"id": "q1", "type": "qcm", "q": "Le suffixe -ous (fractious, querulous) est…", "choices": ["adjectival", "nominal", "verbal", "adverbial"], "answer": 0, "explain": "fractious = indiscipliné, querulous = grincheux.", "section": "suffixes"},
+    {"id": "q2", "type": "qcm", "q": "Le suffixe -ize / -ise (jeopardize) est…", "choices": ["verbal", "nominal", "adjectival", "adverbial"], "answer": 0, "explain": "Comme -ify (gentrify).", "section": "suffixes"},
+    {"id": "q3", "type": "qcm", "q": "Le suffixe -hood (maidenhood, livelihood) est…", "choices": ["nominal", "verbal", "adjectival", "adverbial"], "answer": 0, "explain": "", "section": "suffixes"},
+    {"id": "q4", "type": "qcm", "q": "Pourquoi advocate est-il ambigu ?", "choices": ["-ate peut être nominal ou verbal selon la prononciation", "Il n'a pas de suffixe", "C'est un adjectif", "Il est indénombrable"], "answer": 0, "explain": "an advocate / to advocate.", "section": "suffixes"},
+    {"id": "q5", "type": "qcm", "q": "Dans « the beautiful black box », quel est le noyau ?", "choices": ["box", "the", "beautiful", "black"], "answer": 0, "explain": "Le noyau d'un GN est le nom.", "section": "groupes"},
+    {"id": "q6", "type": "qcm", "q": "Dans « in the university », quel est le noyau du groupe ?", "choices": ["in", "the", "university", "the university"], "answer": 0, "explain": "Le noyau d'un GP est la préposition.", "section": "groupes"},
+    {"id": "q7", "type": "vf", "q": "Un groupe peut contenir un autre groupe.", "answer": true, "explain": "The students [in [the university]] : GN contenant un GP contenant un GN.", "section": "groupes"},
+    {"id": "q8", "type": "vf", "q": "Le sujet réalise toujours l'action.", "answer": false, "explain": "Il peut aussi subir une action ou ressentir quelque chose.", "section": "sujet"},
+    {"id": "q9", "type": "qcm", "q": "Le sujet syntaxique est lié à…", "choices": ["la construction de la phrase", "le sens de la phrase", "la prononciation", "le temps du verbe"], "answer": 0, "explain": "Le sujet sémantique est lié au sens.", "section": "sujet"},
+    {"id": "q10", "type": "qcm", "q": "Advice, information, music et progress sont des noms…", "choices": ["indénombrables singuliers", "dénombrables", "indénombrables pluriels", "au pluriel irrégulier"], "answer": 0, "explain": "On ne dit pas *an advice : on dit a piece of advice.", "section": "noms"},
+    {"id": "q11", "type": "qcm", "q": "Combien de propositions dans « I know that he prefers red wine » ?", "choices": ["2", "1", "3", "0"], "answer": 0, "explain": "Deux verbes conjugués : know, prefers.", "section": "ex-a"},
+    {"id": "q12", "type": "qcm", "q": "Combien de propositions dans « Does she prefer red or white wine? » ?", "choices": ["1", "2", "3", "0"], "answer": 0, "explain": "Un seul verbe conjugué.", "section": "ex-a"},
+    {"id": "q13", "type": "qcm", "q": "Dans « Sage Francis is a pretty good rapper », pretty est…", "choices": ["un adverbe", "un adjectif", "un nom", "un verbe"], "answer": 0, "explain": "Il modifie l'adjectif good (= very / quite).", "section": "ex-c"},
+    {"id": "q14", "type": "qcm", "q": "Dans « Keep your composure », composure est…", "choices": ["un nom", "un verbe", "un adjectif", "un adverbe"], "answer": 0, "explain": "Précédé d'un déterminant possessif.", "section": "ex-c"},
+    {"id": "q15", "type": "qcm", "q": "Dans « She became a very good teacher », a very good teacher est…", "choices": ["attribut du sujet", "COD", "COI", "CC"], "answer": 0, "explain": "Become est un verbe d'état (changement d'état).", "section": "ex-d"},
+    {"id": "q16", "type": "qcm", "q": "Dans « It snowed the whole night », the whole night est…", "choices": ["un CC de temps", "un COD", "un COI", "un attribut"], "answer": 0, "explain": "Snow est intransitif.", "section": "ex-d"},
+    {"id": "q17", "type": "qcm", "q": "Dans « They emailed Mary the new document », Mary est…", "choices": ["COI (bénéficiaire)", "COD", "sujet", "attribut du COD"], "answer": 0, "explain": "Double objet : the new document = COD.", "section": "ex-d"},
+    {"id": "q18", "type": "qcm", "q": "Dans « I've been waiting for two hours », for two hours est…", "choices": ["un CC de temps", "un COI", "un COD", "un complément d'agent"], "answer": 0, "explain": "À comparer avec « What are you waiting for? » (COI).", "section": "ex-e"},
+    {"id": "q19", "type": "qcm", "q": "Dans « He treated the whole thing with disdain », with disdain est…", "choices": ["un CC de manière", "un COI", "un COD", "un CC de lieu"], "answer": 0, "explain": "", "section": "ex-e"},
+    {"id": "q20", "type": "qcm", "q": "Dans « You can't rely on any politician », on any politician est…", "choices": ["un COI", "un CC de lieu", "un COD", "un attribut"], "answer": 0, "explain": "Rely on : verbe prépositionnel.", "section": "ex-e"},
+    {"id": "q21", "type": "qcm", "q": "« They promised the employee a substantial raise » : le verbe est…", "choices": ["ditransitif", "intransitif", "transitif indirect", "d'état"], "answer": 0, "explain": "COI (the employee) + COD (a substantial raise).", "section": "ex-g"},
+    {"id": "q22", "type": "qcm", "q": "« Were you looking for someone? » : le verbe est…", "choices": ["transitif indirect", "transitif direct", "ditransitif", "intransitif"], "answer": 0, "explain": "Look for + GP COI.", "section": "ex-g"},
+    {"id": "q23", "type": "vf", "q": "« My aunt posted me a letter » peut aussi s'écrire « My aunt posted a letter to me ».", "answer": true, "explain": "Double objet ou COD + GP COI.", "section": "ex-f"},
+    {"id": "q24", "type": "trou", "q": "Un verbe ___ n'a pas de complément d'objet (ex. sleep).", "answer": "intransitif", "alts": [], "explain": "", "section": "types-verbes"},
+    {"id": "q25", "type": "qcm", "q": "Dans « I especially like the idea of using music in the classroom », le COD est…", "choices": ["the idea of using music in the classroom", "music", "the classroom", "using"], "answer": 0, "explain": "Le COD est le GN entier, de noyau idea.", "section": "ex-d"}
+  ],
+  "order": [],
+  "cards": [
+    {"id": "c1", "front": "-some (irksome)", "back": "suffixe adjectival", "short": "adjectival", "section": "suffixes"},
+    {"id": "c2", "front": "-ee (inductee)", "back": "suffixe nominal", "short": "nominal", "section": "suffixes"},
+    {"id": "c3", "front": "-ify (gentrify)", "back": "suffixe verbal", "short": "verbal", "section": "suffixes"},
+    {"id": "c4", "front": "-ish (garish)", "back": "suffixe adjectival", "short": "adjectival", "section": "suffixes"},
+    {"id": "c5", "front": "-icism (witticism)", "back": "suffixe nominal", "short": "nominal", "section": "suffixes"},
+    {"id": "c6", "front": "Transitif direct", "back": "Verbe + COD sans préposition (answer)", "short": "Verbe + COD", "section": "types-verbes"},
+    {"id": "c7", "front": "Transitif indirect", "back": "Verbe + préposition + complément (look for)", "short": "Verbe + préposition", "section": "types-verbes"},
+    {"id": "c8", "front": "Sujet sémantique", "back": "L'élément qui porte réellement le sens de l'action", "short": "Porte le sens", "section": "sujet"},
+    {"id": "c9", "front": "Sujet syntaxique", "back": "L'élément qui occupe la place du sujet", "short": "Occupe la place du sujet", "section": "sujet"},
+    {"id": "c10", "front": "GP", "back": "Préposition (noyau) + GN", "short": "Préposition + GN", "section": "groupes"}
+  ]
+}
